@@ -204,6 +204,11 @@
       "id": "obsidian-git:push2",
       "name": "Git: Push",
       "icon": "arrow-up-right"
+    },
+    {
+      "id": "obsidian-git:discard-all",
+      "name": "Git: CAUTION: Discard all changes",
+      "icon": "arrow-left-circle"
     }
   ],
   "appendMethod": "workspace",
