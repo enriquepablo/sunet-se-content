@@ -1,7 +1,9 @@
 Title: Stockholm Python User Group Meetup
 Date: 2023-11-21T10:48:14
 Modified: 2024-02-06T14:13:44
-EventDate: 15 februari 2024
+DisplayDate: 15 februari 2024
+StartDate: 2024-02-15
+EndDate: 2024-02-15
 Slug: om-sunet/aktuellt/evenemang/november-stockholm-python-user-group-meetup
 Status: published
 Category: evenemang

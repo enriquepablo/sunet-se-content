@@ -2,7 +2,7 @@ Title: Sunet Datahanteringsplan
 Subtitle: Ett verktyg för att skapa och underhålla datahanteringsplaner
 Date: 2020-10-27T14:10:07
 Modified: 2023-03-17T10:07:31
-Slug: services/molnbaserade tjänster/sunet-datahanteringsplan
+Slug: services/molnbaserade-tjanster/sunet-datahanteringsplan
 Status: published
 Contact: lisa-olsson
 Category: Molnbaserade tjänster

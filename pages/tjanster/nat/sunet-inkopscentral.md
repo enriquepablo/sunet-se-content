@@ -2,7 +2,7 @@ Title: Sunet Inköpscentral
 Subtitle: Samordning av inköp av tjänster och produkter
 Date: 2018-12-05T11:19:34
 Modified: 2022-01-19T15:42:18
-Slug: services/nät/sunet-inkopscentral
+Slug: services/nat/sunet-inkopscentral
 Status: published
 Contact: fredrik-persson-jonhed
 Category: Nät

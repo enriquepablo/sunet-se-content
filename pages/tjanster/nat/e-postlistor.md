@@ -2,7 +2,7 @@ Title: E-postlistor
 Subtitle: Hitta rätt med mailen
 Date: 2019-06-26T09:58:32
 Modified: 2023-07-04T12:46:42
-Slug: services/nät/e-postlistor
+Slug: services/nat/e-postlistor
 Status: published
 Contact: 
 Category: Nät

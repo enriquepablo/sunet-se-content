@@ -2,7 +2,7 @@ Title: Sunets nät [Sunet C]
 Subtitle: Rikstäckande, stabilt, snabbt och driftsäkert nät
 Date: 2019-08-28T10:56:21
 Modified: 2020-09-30T10:17:40
-Slug: services/nät/sunets-nat
+Slug: services/nat/sunets-nat
 Status: published
 Contact: borje-josefsson
 Category: Nät

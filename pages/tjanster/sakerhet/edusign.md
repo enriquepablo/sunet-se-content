@@ -2,7 +2,7 @@ Title: eduSign
 Subtitle: Säker digital underskrift och validering
 Date: 2020-12-14T12:09:21
 Modified: 2023-10-12T11:51:24
-Slug: services/säkerhet/edusign
+Slug: services/sakerhet/edusign
 Status: published
 Contact: stefan-listrom
 Category: Säkerhet

@@ -2,7 +2,7 @@ Title: OCRE
 Subtitle: IaaS-tjänster via ramavtal med GÉANT
 Date: 2020-11-30T10:20:12
 Modified: 2021-02-26T17:01:43
-Slug: services/molnbaserade tjänster/ocre
+Slug: services/molnbaserade-tjanster/ocre
 Status: published
 Contact: 
 Category: Molnbaserade tjänster
