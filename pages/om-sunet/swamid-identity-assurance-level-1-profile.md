@@ -1,7 +1,7 @@
 Title: TILLITSPROFIL SWAMID AL1
 Date: 2019-10-11T13:52:54
 Modified: 2019-10-11T13:58:42
-Slug: swamid-identity-assurance-level-1-profile
+Slug: om-sunet/swamid-identity-assurance-level-1-profile
 Status: published
 Authors: 
 Lang: sv

@@ -1,7 +1,7 @@
 Title: SWAMID person-proofed multi-factor profile
 Date: 2019-10-11T14:16:16
 Modified: 2019-10-11T14:16:16
-Slug: swamid-person-proofed-multi-factor-profile
+Slug: om-sunet/swamid-person-proofed-multi-factor-profile
 Status: published
 Authors: 
 Lang: sv

@@ -1,7 +1,7 @@
 Title: IT-säkerhetspolicy
 Date: 2020-05-13T19:26:11
 Modified: 2023-10-02T10:24:45
-Slug: it-sakerhets-policy
+Slug: om-sunet/it-sakerhets-policy
 Status: published
 Authors: 
 Lang: sv

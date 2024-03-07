@@ -1,7 +1,7 @@
 Title: Support för Sunets anslutna organisationer
 Date: 2024-02-05T15:24:52
 Modified: 2024-02-05T15:33:48
-Slug: support-for-sunets-anslutna-organisationer
+Slug: om-sunet/support-for-sunets-anslutna-organisationer
 Status: published
 Authors: 
 Lang: sv

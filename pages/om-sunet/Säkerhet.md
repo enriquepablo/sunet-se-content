@@ -33,11 +33,9 @@ För att kontakta Sunet i ett ärende som rör it-säkerhet skicka e-post till [
 
 
 
-> **Kryptera känslig information med PGP-nyckeln:**PGP keyid 0x3ACFD1F0 and  
-> 
+> **Kryptera känslig information med PGP-nyckeln:**  
+> PGP keyid 0x3ACFD1F0 and  
 > PGP fingerprint 9CBF AF18 D1E1 AF31 76E7 4C3E 2F23 CB19 3ACF D1F0
-> 
-> 
 
 
 Vi kan vid behov mötas på Signal eller annan plattform för att diskutera känslig information.

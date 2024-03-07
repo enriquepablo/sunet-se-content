@@ -1,7 +1,7 @@
 Title: SWAMID SAML WEBSSO technology profile
 Date: 2019-10-11T13:02:18
 Modified: 2019-10-11T13:59:19
-Slug: swamid-saml-websso-technology-profile
+Slug: om-sunet/swamid-saml-websso-technology-profile
 Status: published
 Authors: 
 Lang: sv

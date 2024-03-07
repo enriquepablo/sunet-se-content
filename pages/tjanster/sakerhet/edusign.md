@@ -54,14 +54,14 @@ Priset är satt i relation till organisationens storlek enligt tabellen nedan.
 
 
 
-|  |  |  |
-| --- | --- | --- |
+|             |                                     |                        |
+| ----------- |:-----------------------------------:|:----------------------:|
 | **Storlek** | **Antal heltidsekvivalenter (FTE)** | **Månadsavgift (SEK)** |
-| X-Small | < 100 | 840 |
-| Small | 100 – 499 | 1 680 |
-| Medium | 500 – 1999 | 3 360 |
-| Large | 2000 – 3999 | 5 600 |
-| X-Large | 4000 – | 8 400 |
+| X-Small     |                < 100                |          840           |
+| Small       |              100 – 499              |         1 680          |
+| Medium      |             500 – 1999              |         3 360          |
+| Large       |             2000 – 3999             |         5 600          |
+| X-Large     |               4000 –                |         8 400          |
 
 
 Ni tecknar avtal med Sunet om användandet av tjänsten. Kontakta Stefan Liström, [steli@sunet.se](mailto:steli@sunet.se), om ni är intresserade.

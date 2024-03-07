@@ -41,7 +41,6 @@ Användarstöd
 
 
 [Support finns på webbplatsen för Box.](https://support.box.com/)  
-
 Mer information om tjänsten finns också på [Box Community](https://community.box.com/t5/Box-Community/ct-p/English) och [Box.com](https://www.box.com/sv-se/home)
 
 

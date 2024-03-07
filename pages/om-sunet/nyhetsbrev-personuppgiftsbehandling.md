@@ -1,7 +1,7 @@
 Title: Nyhetsbrev: Information om behandling av personuppgifter
 Date: 2021-10-26T15:51:22
 Modified: 2021-10-26T16:01:38
-Slug: nyhetsbrev-personuppgiftsbehandling
+Slug: om-sunet/nyhetsbrev-personuppgiftsbehandling
 Status: published
 Authors: 
 Lang: sv
