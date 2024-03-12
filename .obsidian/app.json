@@ -2,5 +2,8 @@
   "showInlineTitle": false,
   "attachmentFolderPath": "wp-content/uploads",
   "useMarkdownLinks": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useTab": false,
+  "propertiesInDocument": "source"
 }
