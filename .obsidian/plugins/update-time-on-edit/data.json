@@ -1,0 +1,19 @@
+{
+  "dateFormat": "yyyy-MM-dd'T'HH:mm",
+  "enableCreateTime": false,
+  "headerUpdated": "Modified",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 3,
+  "ignoreGlobalFolder": [
+    "navigation",
+    "wp-content",
+    "templates",
+    "_Documentation"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "pages/tjanster/identifiering/eduID.md": "6cf64aa15dff9b0a03db08c9730c090e3a3f2afbefe1d4331bf1610c82a5ee70",
+    "_Documentation/Content Metadata.md": "6a2560de96a49601ddcc54b0d5c165b51792182e551be182e4a1ff9e799a2df7"
+  }
+}
