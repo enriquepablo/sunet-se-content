@@ -1,5 +1,5 @@
 Title: 
-Created: {{date}}
+Date: {{date}}
 Modified: {{date}}
 Slug: 
 Authors: 
