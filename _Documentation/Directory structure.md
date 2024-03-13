@@ -1,3 +1,4 @@
+---
 Title: Directory structure
 Created: 2024-03-12
 Modified: 2024-03-12
@@ -5,6 +6,7 @@ Slug: documentation/directory-structure
 Authors: 
 Lang: en
 Translation: false
+---
 # Directory structure of the obsidian vault
 
 Here we look at where the data and metadata that make up the site is kept in the directory tree within the obsidian vault.

@@ -1,3 +1,4 @@
+---
 Title: Content Metadata
 Date: 2024-03-12
 Modified: 2024-03-12
@@ -5,6 +6,7 @@ Slug: documentation/metadata
 Authors: 
 Lang: en
 Translation: false
+---
 
 # Content Metadata
 
