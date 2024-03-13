@@ -16,9 +16,7 @@ Tillitsprofilen för multifaktorinloggning innebär tre saker:
 1. Utökning av [SWAMID AL2](http://web-wp.sunet.se/om-swamid/tillitsprofil-swamid-al2/).
 2. Krav på multifaktorinloggning enligt vissa modeller.
 3. Två olika nivåkrav på identifiering av användaren:  
-
 Samma nivå som SWAMID AL2 eller  
-
 Identitetskontroll mot godkända identitetshandlingar.
 
 Beslutad tillitsprofil för multifaktorinloggning:

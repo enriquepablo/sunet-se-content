@@ -14,6 +14,5 @@ SAML WebSSO inom SWAMID gör att en användare kan använda sitt användarkonto 
 En tjänsteleverantör behöver inte vara medlem i SWAMID för att erbjuda tjänster inom SWAMID utan måste endast godkänna SWAMIDs nyttjande regler.
 
 SWAMID SAML WebSSO Technology Profile  
-
 På SWAMID-wikin finns mer information om SAML WebSSO.
 

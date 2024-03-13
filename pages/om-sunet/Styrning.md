@@ -31,13 +31,10 @@ Regeringens löpande styrning av myndigheterna sker genom årliga så kallade re
 ## Sunets styrdokument
 
 * [Vetenskapsrådets instruktion](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2009975-med-instruktion-for_sfs-2009-975)  
-
 Myndighetens instruktion är en författning med regler om dess organisation, arbetssätt med mera som regeringen utfärdar.
 * [Vetenskapsrådets regleringsbrev för 2024](https://www.esv.se/Statsliggaren/Regleringsbrev?rbid=24034)  
-
 Regeringens löpande styrning av myndigheterna sker genom årliga så kallade regleringsbrev. Där framgår hur mycket pengar myndigheten har till sitt förfogande och hur pengarna ska fördelas mellan dess olika verksamheter samt vissa uppdrag som myndigheten ska utföra under året.
 * [Inriktning Sunet (pdf, 291 kB)](/wp-content/uploads/2023/10/Sunets-inriktning-2023-2026.pdf)  
-
 Sunets kommittés inriktningsdokument för 2023-2026.
 
 ## Årsplaner

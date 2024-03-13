@@ -62,7 +62,6 @@ Vår ambition är att ha åtgärdat alla kända tillgänglighetsproblem senast d
 ### Oskäligt betungande anpassning
 
 Vetenskapsrådet åberopar undantag för oskäligt betungande anpassning enligt 12 § lagen om tillgänglighet till digital offentlig service för nedanstående innehåll.  
-
 Tjänsten förlitar sig på användning av JavaScript, att det tillåts av klienten.
 
 I vissa fall har vi inte kunnat använda motsvarande HTML element, men förbättrat tillgängligheten med ARIA-roller och attribut.

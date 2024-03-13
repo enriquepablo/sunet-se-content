@@ -14,6 +14,5 @@ Eduroam (education roaming) är ett världsomspännande samarbete inom forskning
 Eduroam är inte bara tillgängligt för forskare, lärare och studenter vid Sveriges universitet och högskolor utan även för lärare och elever vid grund- och gymnasieskolor i Sverige. För mer information om eduroam vid grund- och gymnasieskolor se Skolfederation.se.
 
 [SWAMID eduroam Technology Profile](/wp-content/uploads/2015/12/SWAMIDeduroamTechnologyProfile-1.0.pdf)  
-
 På [eduroam.se](http://eduroam.se) finns mer information om eduroam i Sverige och internationellt.
 

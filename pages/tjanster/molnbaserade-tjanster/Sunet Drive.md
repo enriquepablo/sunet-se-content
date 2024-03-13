@@ -39,7 +39,6 @@ Tjänsten finns med två olika prisplaner.
 Priset för användandet av tjänsten är uppdelat i ett antal delkomponenter. Dels ett grundpris per kund, som är samma för alla. Sedan ett pris per “instans”, där priset beror på antalet användarlicenser (i block om 500) som kunden köpt, och till sist ett pris per användarlicens. Se nedanstående tabell.
 
 För att nyttja tjänsten behöver man ha ett avtal med Sunet om lagring. Lagring kan köpas till inom tjänsten (se nedan för pris) eller separat från Sunet – tag kontakt med tjänsteförvaltare.  
-
 ![](/wp-content/uploads/2021/04/Pris-SD_2.png)
 
 (\*) OBS att när en extern användare bjuds in till tjänsten, till exempel för att redigera ett dokument, så räknas användaren in i antalet användarlicenser. Inga licenser går åt för att endast läsa dokument eller data. Ta hänsyn till detta vid beställning av tjänsten.
@@ -51,7 +50,6 @@ Denna prisplan är rörlig, baserad på antalet aktiverade användare. För varj
 Om lagrad volym överskrider den gemensamma lagringspoolen så tas en tilläggsavgift ut
 
 Pris per användare: 100 kr per månad.  
-
 Kostnad för överskjutande lagringsvolym: 1 kr per Gbyte och månad.
 
 ## Vill du veta mer?

@@ -32,7 +32,6 @@ De tjänster som inte får ta del av ditt personnummer enligt ovan får endast e
 I syfte att driva tjänsten på ett säkert sätt lagras även vissa loggar som visar hur systemet används. Exempel på information vi för logg över är vem som har loggat in och vid vilken tidpunkt man gjorde det, om man har bytt eller uppdaterat sitt namn, och så vidare. Dessa loggar delar vi aldrig med oss av till andra utom när vi enligt svensk lag är skyldiga att göra så.
 
 Eftersom vi på Sunet utvecklar med öppen källkod kan du själv läsa i koden vilka uppgifter om våra användare vi hanterar. Vi finns på GitHub under SUNET, projektet heter eduid-backend. Väl där sök på ”class user” eller använd länken nedan.  
-
 <https://github.com/SUNET/eduid-backend/blob/main/src/eduid/userdb/user.py#L69>
 
 ### Var dina personuppgifter kommer ifrån och vilka vi delar dem med

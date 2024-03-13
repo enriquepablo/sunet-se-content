@@ -13,9 +13,7 @@ Behöver du långtidslagring eller fillagring finns följande alternativ tillgä
 
 * STaaS block-lagring
 * STaaS objekt-lagring  
-
 – STaaS objekt-lagring i Sunets publika moln  
-
 – STaaS objekt-lagring i Sunets privata moln
 * Sunet Drive
 * Box

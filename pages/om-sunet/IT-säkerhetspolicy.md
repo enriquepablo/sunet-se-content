@@ -28,27 +28,22 @@ SUNET leds av en styrelse utsedd av Vetenskapsrådet. Styrelsen är ansvarig fö
 ### Samordningsansvarig
 
 SUNET:s styrelse utser en samordningsansvarig för SUNET som har det operativa ansvaret för verksamheten.  
-
 I detta ingår ansvar för IT-säkerheten inom SUNET. Den samordningsansvarige ansvarar för att viktigare IT-säkerhetsfrågor bereds och föreläggs SUNET:s styrelse.
 
 ### NOC (Network Operations Centre)
 
 SUNET har en funktion, benämnd NOC, som ansvarar för det dagliga arbetet med drift, övervakning och ändringshantering av nätet.  
-
 Inom NOC skall det finnas en utsedd IT-säkerhetsansvarig. Denne ansvarar inför SUNET:s styrelse för IT-säkerheten i den utrustning och de tjänster som NOC sköter.
 
 ### SUNET CERT
 
 SUNET CERT är en funktion inrättad av SUNET:s styrelse för att bistå universitet, högskolor och andra organisationer anslutna till SUNET med samordning av incidenthantering och informationsspridning om aktuella IT-säkerhetsfrågor. I uppdraget ingår också att upprätta och underhålla kontaktnät med andra Internet-operatörer i Sverige och utomlands samt deltaga i nationella och internationella organisationer för CERT-samarbete.  
-
 SUNET CERT har ett övergripande ansvar att bevaka hur anslutna organisationer följer denna policy i tillämpliga delar.  
-
 SUNET CERT,  NOC och den samordningsansvarige ska ha rutiner för samverkan i IT-säkerhetsfrågor. Den samordningsansvarige ansvarar för detta.
 
 ### Leverantörer
 
 Med leverantör avses en part som levererar varor eller tjänster till SUNET baserat på avtal.  
-
 SUNET:s styrelse ansvarar för att IT-säkerhetsfrågor beaktas i samband med tecknande av avtal med leverantör med syfte att leverantören skall uppfylla de krav som framgår av denna policy.
 
 ### Anslutna organisationer
@@ -64,7 +59,6 @@ Med ansluten organisation avses varje organisation som SUNET levererar nätanslu
 ### Tillgänglighet
 
 De nättjänster som SUNET levererar skall ha hög tillgänglighet. Målsättningen är att tjänsterna ska vara tillgängliga dygnet runt alla årets dagar.  
-
 Redundanta och diversifierade förbindelser och redundant utrustning skall användas där det krävs för att erhålla acceptabel tillgänglighet. Detta gäller både internt inom nätet och vid inkoppling av anslutna organisationer.
 
 NOC skall vara nåbar dygnet runt för att ta emot larm och felrapporter från anslutna organisationer.
@@ -72,7 +66,6 @@ NOC skall vara nåbar dygnet runt för att ta emot larm och felrapporter från a
 ### Planerade avbrott
 
 Planerade avbrott som bara påverkar redundansen för en ansluten organisation skall meddelas minst 2 arbetsdagar (helgfria måndagar-fredagar) i förväg.  
-
 Planerade avbrott som orsakar trafikbortfall för en ansluten organisation skall i möjligaste mån undvikas. Om ett sådant avbrott är nödvändigt ska det meddelas minst 9 kalenderdagar i förväg.
 
 Den samordningsansvarige kan besluta om kortare förvarningstid om det planerade avbrottet är nödvändigt för att kunna upprätthålla säkerhet (inklusive tillgänglighet) i nätet som helhet. Den samordningsansvarige kan, om särskilda skäl föreligger, delegera rätten att fatta beslut om kortare förvarningstid.
@@ -90,7 +83,6 @@ SUNET begränsar normalt inte trafiken som transporteras i nätet. Se dock avsni
 SUNET garanterar inte konfidentialitet eller integritet för data som överförs över nätet. Därför måste den som har krav på konfidentialitet elller integritet själv vidta de skyddsåtgärder som erfordras.
 
 Den samordningsansvarige eller personer som denne delegerat rätten till har rätt att avlyssna trafiken vid teknisk felsökning samt vid hantering av incidenter.  
-
 SUNET har rätt att insamla trafikstatistik som dock inte får vara spårbar till mindre adressenhet än ansluten organisation.
 
 Den som genom anställning eller uppdrag ges tillgång till information avseende nättrafik eller information i datasystem inom SUNET skall iaktta tystnadsplikt utanför tjänsten avseende denna information. Denna tystnadsplikt inskränker inte dennes rättigheter i enlighet med lag och förordning.
