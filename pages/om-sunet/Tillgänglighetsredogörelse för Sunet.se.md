@@ -13,31 +13,26 @@ Vetenskapsrådet står bakom den här webbplatsen. Vi vill att så många som m�
 
 Här beskriver vi hur sunet.se uppfyller lagen om tillgänglighet till digital offentlig service, kända tillgänglighetsproblem och hur du kan rapportera brister till oss så att vi kan åtgärda dem.
 
-Hur tillgänglig är webbplatsen?
--------------------------------
+## Hur tillgänglig är webbplatsen?
 
 Vi är medvetna om att delar av webbplatsen inte är helt tillgängliga. Se avsnittet om innehåll som inte är tillgängligt nedan för mer information.
 
-Vad kan du göra om du inte kan använda delar av webbplatsen?
-------------------------------------------------------------
+## Vad kan du göra om du inte kan använda delar av webbplatsen?
 
 Om du behöver innehåll från sunet.se som inte är tillgängligt för dig, men som är undantaget från lagens tillämpningsområde enligt beskrivning nedan, kan du kontakta oss på följande sätt:
 
 * skicka e-post till [registrator@vr.se](mailto:registrator@vr.se)
 * ring 08-546 440 00
 
-Rapportera brister i webbplatsens tillgänglighet
-------------------------------------------------
+## Rapportera brister i webbplatsens tillgänglighet
 
 Vi strävar hela tiden efter att förbättra webbplatsens tillgänglighet. Om du upptäcker problem som inte är beskrivna på den här sidan, eller om du anser att vi inte uppfyller lagens krav, meddela oss så att [vi får veta att problemet finns](https://www.vr.se/tillganglighetsbrister.html).
 
-Tillsyn
--------
+## Tillsyn
 
 Myndigheten för digital förvaltning har ansvaret för tillsyn för lagen om tillgänglighet till digital offentlig service. Om du inte är nöjd med hur vi hanterar dina synpunkter kan du [kontakta Myndigheten för digital förvaltning](https://www.digg.se/tdosanmalan) och påtala det.
 
-Innehåll som inte är tillgängligt
----------------------------------
+## Innehåll som inte är tillgängligt
 
 Den här webbplatsen är delvis förenlig med lagen om tillgänglighet till digital offentlig service, på grund av de brister som beskrivs nedan.
 
@@ -49,8 +44,7 @@ Den här webbplatsen är delvis förenlig med lagen om tillgänglighet till digi
 * Enheten för storlek på objekt varierar, den är ibland satt i enheten px, ibland i rem eller em. (DOS 11.7)
 * Det finns endast ett sätt att navigera på webbplatsen. (WCAG 2.4.5 – Multiple Ways)
 
-Innehåll som inte omfattas av lagen
------------------------------------
+## Innehåll som inte omfattas av lagen
 
 Det innehåll som beskrivs här är inte fullt tillgängligt, men undantas enligt 9 § lagen om tillgänglighet till digital offentlig service.
 
@@ -62,8 +56,7 @@ Det innehåll som beskrivs här är inte fullt tillgängligt, men undantas enlig
 
 * Det finns exempel på text där enbart versaler används. De flesta användare stavar inte igenom ett ord utan varje ord är en ”ordbild” som känns igen. Om ett ord består av endast versaler så finns inte denna ”vanliga ordbilden” längre utan användaren måste stava igenom ordet. [WCAG 1.4.8 (AAA)]
 
-Hur vi testat webbplatsen
--------------------------
+## Hur vi testat webbplatsen
 
 Externa aktörer har gjort granskningar av Sunet.se i maj 2020 samt i maj 2022. I granskningarna valdes ett antal representativa sidor och funktioner ut.
 

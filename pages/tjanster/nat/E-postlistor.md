@@ -14,8 +14,7 @@ Translation: false
 
 Nå ut med ditt budskap snabbt och lätt genom att anpassa målgrupperna i en sorterad e-postlista.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Genom Sunet kan anslutna organisationer skapa, använda och underhålla specifika e-postlistor. Krav för användning:
 
@@ -23,8 +22,7 @@ Genom Sunet kan anslutna organisationer skapa, använda och underhålla specifik
 * Merparten av användarna ska inte tillhöra samma organisation, i sådana fall är det lämpligt att en intern lösning används.
 * Syftet med listan får inte vara kommersiellt, då hänvisar vi till andra aktörer på marknaden.
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Sunets NOC ansvarar för tjänsten. Vid frågor kontakta dem på **[noc@sunet.se](mailto:noc@sunet.se)**.
 

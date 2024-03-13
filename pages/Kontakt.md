@@ -11,13 +11,11 @@ Translation: false
 
 Här hittar du kontaktuppgifter till oss på Sunet.
 
-Support
--------
+## Support
 
 Information om support finns på [Support för Sunets tjänster](/kontakt/support-for-sunets-tjanster/).
 
-Pressfrågor
------------
+## Pressfrågor
 
 Presstjänst kontorstid vardagar:
 

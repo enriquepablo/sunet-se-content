@@ -16,25 +16,21 @@ Sunet Drive är en lagrings- och fildelningstjänst. Tjänsten är lokaliserad p
 
 [Jämför Sunets olika lösningar för lagring](/om-sunet/sunets-lagringslosningar).
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Sunet Drive är en lagringslösning som bygger på [Nextcloud](https://nextcloud.com/) och Sunets S3-lagring i privat moln. Inloggning sker genom SWAMID, vilket gör det enkelt att kunna samarbeta mellan flera organisationer. Alternativa inloggningsmetoder kan eventuellt erbjudas vid behov. Organisationen har full kontroll över allt lagrat data och kan hantera denna enligt interna processer och arkivlagen, något som till exempel är viktigt i samband med hantering av forskningsdata. Filer hanteras genom webbläsaren eller synk-klienter som finns för Windows, Linux, Mac, iOS och Android.
 
-Det här krävs för att få tillgång till tjänsten
------------------------------------------------
+## Det här krävs för att få tillgång till tjänsten
 
 Ta kontakt med tjänsteförvaltare för Sunet Drive om du är intresserad av att börja använda Sunet Drive.
 
-Användarstöd
-------------
+## Användarstöd
 
 Varje organisation som beställer tjänsten är själv ansvarig för att erbjuda support i form av teknikstöd och problemklassificering till sina egna användare. Sunet ger support till de kontaktpersoner för tjänsten som finns på organisationerna.
 
 Nya kunder kan boka ett utbildningstillfälle för Sunet Drive genom att ta kontakt med tjänsteförvaltare för Sunet Drive.
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 Tjänsten finns med två olika prisplaner.
 
@@ -58,8 +54,7 @@ Pris per användare: 100 kr per månad.
 
 Kostnad för överskjutande lagringsvolym: 1 kr per Gbyte och månad.
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Kontakta Anders Nilsson, [anders@sunet.se](mailto:anders@sunet.se), för mer information.
 

@@ -12,18 +12,15 @@ Translation: false
 
 Under några intensiva dagar i höst har Elias och Paulo från Sunet NOC åkt på turné genom Sverige med en fullastad bil för att uppdatera och sköta om Sunets nät.
 
-Målet med resan
----------------
+## Målet med resan
 
 Huvudmålet med resan var att åka till Sunets nya datacenter Orion i Kalix, där vi skulle bygga rack och installera de första routrarna. Under resan skulle vi samtidigt passa på att besöka ett antal stationer för att genomföra en del förändring/installationer.
 
-Förberedelser
--------------
+## Förberedelser
 
 Inför resan kollade vi upp alla platser som vi skulle besöka och en noggrann plan togs fram för vad som skulle göras och var vi skulle övernatta. All utrustning, verktyg, nycklar och accesskort packade vi ihop. Det vi skulle ta med var två stycken mx480, en ALM[[1]](#_ftn1) (ALM-enheter går att nå via fjärranslutning och används för att monitorera fiber-kvalitet samt att genomföra OTDR-mätningar). Det är ett viktigt verktyg som hjälper till att identifiera fiber-avbrott) samt en perfsonar[[2]](#_ftn2) (en enhet som används för prestandaövervakning och nätverksmätning). MX480 hade redan förberetts veckan innan av Dennis som har uppgraderad både SW och FW.
 
-Dag 1 Tulegatan Stockholm – Luleå
----------------------------------
+## Dag 1 Tulegatan Stockholm – Luleå
 
 [![Bild på lastad bil på väg till serverhallen Orion i Kalix.](/wp-content/uploads/2022/11/Bild1.jpg "Bild på lastad bil på väg till serverhallen Orion i Kalix.")](/wp-content/uploads/2022/11/Bild1.jpg)  
 
@@ -31,8 +28,7 @@ Dagen började med att vi tog ner allt som skulle tas med och packade in det i b
 
 Målet för dag 1 var att åka från Tulegatan i Stockholm till Luleå. En resa som skulle ta lite mer än 10 timmar för att köra ca 900 km. Sent på kvällen kom vi fram till hotellet. Efter att ha checkat in tog vi kontakt med Börje, ansvarig för Orion i Kalix, för att bestämma när vi skulle träffas vid Orion dagen efter. Det var inte så mycket mer vi kunde göra än att äta middag och få lite sömn innan nästa dag.
 
-Dag 2 Luleå – Orion
--------------------
+## Dag 2 Luleå – Orion
 
 [![Bild på Orion i Kalix](/wp-content/uploads/2022/11/Bild2.jpg "Sunets serverhall Orion i Kalix, från utsidan. ")](/wp-content/uploads/2022/11/Bild2.jpg)
 
@@ -52,8 +48,7 @@ Efter att ha sneglat på instruktionerna tog vi kontakt med IP-gruppen för att 
 
 När så racken till slut stod på sina platser var det dags att installera mx480 routrarna. Nu hade det hunnit bli sent på kvällen och vi avslutade dagen och åkte till hotellet i Kalix för lite mat och sömn.
 
-Dag 3 Orion – Umeå
-------------------
+## Dag 3 Orion – Umeå
 
 Dagen började med att vi åkte tillbaka Orion för att starta mx480-routrarna samt konfigurera fjärranslutning till Sunet.  Det tog nästan hela förmiddagen men till slut kunde Dennis logga in från Stockholm och vi noterade nöjt att allt fungerade som det skulle.  
 
@@ -67,8 +62,7 @@ Samtidigt som vi höjde prestandan satte vi in extra loops i vår optiska utrust
 
 Efter stoppet i Luleå styrde vi bilen söderut mot Umeå som var vår nästa destination.
 
-Dag 4 Umeå – Tulegatan Stockholm
---------------------------------
+## Dag 4 Umeå – Tulegatan Stockholm
 
 Väl på plats i Umeå var vårt första uppdrag att åka till siten i Umeå och installera mera loopar i vår optiska utrustning för test. När detta var gjort fortsatte vi vår resa mot Sundsvall. Väl framme, i tillägg till ”Dennis-loops” gjorde vi även felsökning/rättning av perfsonar enheten som var onåbar i en stund. Som tur räckte det med en omstart för att lösa problemet. Vi har också ordnat konsolaccess till den via fjärranslutning.  
 

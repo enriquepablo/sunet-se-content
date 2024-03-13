@@ -21,8 +21,7 @@ Sunet kommunicerar säkerhetsnivåer med [traffic light protocol (TLP)](https://
 
 Sunet erbjuder i dagsläget inga bugbountys men vi listar verifierade bidrag till vårt säkerhetsarbete på vår [“security-hall-of-fame”](/om-sunet/sakerhet-hall-of-fame).
 
-Kontakt i säkerhetsärende
--------------------------
+## Kontakt i säkerhetsärende
 
 För att kontakta Sunet i ett ärende som rör it-säkerhet skicka e-post till [abuse@sunet.se](mailto:abuse@sunet.se).
 

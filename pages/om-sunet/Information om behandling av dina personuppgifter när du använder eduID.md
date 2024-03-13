@@ -9,13 +9,11 @@ Lang: sv
 Translation: false
 ---
 
-Allmänt om oss
---------------
+## Allmänt om oss
 
 Sunet (Swedish University Computer Network) är en del av Vetenskapsrådet och har som uppgift att tillgodose behovet av datakommunikation hos svenska lärosäten och andra offentliga organisationer med koppling till forskning eller högre utbildning. Sunet levererar även valbara tilläggstjänster till många anslutna organisationer. En del av Sunetss utbud är eduID – en identitetslösning inom vår utbildningssektor.
 
-Allmänt om personuppgifter
---------------------------
+## Allmänt om personuppgifter
 
 En personuppgift är en datapunkt som identifierar en nu levande person. Sunet behandlar personuppgifter inom tjänsten eduID för att möjliggöra inloggning och överföring av information till de tjänster som en användare väljer att använda.
 
@@ -47,13 +45,11 @@ I registervårdande syfte uppdaterar vi regelbundet information som lagras i tj�
 
 All persondata i eduID lagras säkert och skyddas av stark kryptografi och världens bästa nätverk: Sunet.
 
-Rättslig grund
---------------
+## Rättslig grund
 
 Sunet uppdrag regleras genom regleringsbrev från regeringen till Vetenskapsrådet. Ett av Sunets uppdrag är att för utbildningssektorn i Sverige skapa säkra IT-tjänster över ett stabilt nät. Som en del i detta erbjuder Sunet en identitetslösning som används inom sektorn. Det behövs då del av användning i dessa tjänster kräver autentisering av en verifierad användare. För att kunna erbjuda dessa identitetslösningar så behöver Sunet hantera vissa uppgifter om dig som användare. Den rättsliga grunden enligt GDPR för vår behandling av dessa personuppgifter är för att vi i enlighet med vårt uppdrag utför en uppgift av allmänt intresse där det är nödvändigt att behandla dina personuppgifter enligt denna beskrivning.
 
-Så här länge sparas dina personuppgifter
-----------------------------------------
+## Så här länge sparas dina personuppgifter
 
 En identitet i eduID är personlig och den enskilde kan välja att ta bort identiteten när som helst varvid all information om individen samt alla kopplingar mellan individen och eventuella organisationer också tas bort. Detta görs direkt i tjänsten.
 
@@ -71,20 +67,17 @@ Om du inte loggat in på ditt konto de senaste två (2) åren så tas ditt konto
 
 Exempel på information vi för logg över är vem som har loggat in och vid vilken tidpunkt man gjorde det, om man har bytt eller uppdaterat sitt namn, och så vidare.
 
-Dina rättigheter
-----------------
+## Dina rättigheter
 
 Var och en har rätt att få felaktiga personuppgifter rättade samt rätt att komplettera ofullständiga personuppgifter. Det finns också en rätt att under vissa förutsättningar få uppgifter raderade eller invända mot en behandling av dina personuppgifter.
 
-Kontakta vårt dataskyddsombud
------------------------------
+## Kontakta vårt dataskyddsombud
 
 Vetenskapsrådets har ett dataskyddsombud som arbetar med frågor som gäller myndighetens egen efterlevnad av dataskyddsförordningen.
 
 Om du har frågor eller synpunkter kring vår hantering av personuppgifter kan du vända dig till dataskyddsombudet på e-postadressen [dataskyddsombudet@vr.se](mailto:dataskyddsombudet@vr.se) eller till Vetenskapsrådet på telefon 08-54644000.
 
-Kontakta Integritetsskyddsmyndigheten
--------------------------------------
+## Kontakta Integritetsskyddsmyndigheten
 
 Om du har klagomål på vår hantering av personuppgifter kan du vända dig till Integritetsskyddsmyndigheten, IMY, som är tillståndsmyndigheten för behandling av personuppgifter. E-postadress till IMY är [imy@imy.se](http://imy@imy.se)
 

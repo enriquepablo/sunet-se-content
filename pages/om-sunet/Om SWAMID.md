@@ -19,8 +19,7 @@ Policyn för SWAMID består av tre delar:
 
 Vid sidan av tillits- och teknologiprofilerna finns även entitetskategorier för att förenkla kommunikation mellan identitetsutgivare och tjänsteleverantörer.
 
-Identitetsutgivare (IDP)
-------------------------
+## Identitetsutgivare (IDP)
 
 ```
 /* code example */
@@ -43,8 +42,7 @@ Underteckna medlemsansökan  och skicka till SWAMID via post och e-post. Bifoga
 * [Tillitsprofil SWAMID AL2](http://web-wp.sunet.se/om-sunet/om-swamid/tillitsprofil-swamid-al2/)
 * Tillitsprofil för personverifierad multifaktorinloggning
 
-Tjänsteleverantör (SP)
-----------------------
+## Tjänsteleverantör (SP)
 
 SWAMID:s nyttjanderegler syftar till att underlätta tillgång till SWAMID:s metadata för externa tjänsteleverantörer. Nyttjandereglerna beskriver syfte, tillgång och till vad man får nyttja SWAMID:s metadata. Genom att acceptera SWAMID:s nyttjanderegler ersätts behovet av ett kontrakt mellan SWAMID och externa tjänsteleverantörer. För att ytterligare underlätta för tjänsteleverantörer att få rätt information om användare som loggar in använder SWAMID entitetskategorier.
 

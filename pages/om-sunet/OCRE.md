@@ -21,13 +21,11 @@ Enskilda lärosäten avropar OCRE-upphandlingen i enlighet med holländsk lag, e
 
 [Länk till avropsmall](https://sunet.box.com/shared/static/7lcobd239s8rk25tjp6eji5ux6clu68d.docx).
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 För att finansiera Sunets arbete med projektet utgår en avgift på 5% av värdet av varje köp.
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Har ni frågor, kontakta Leif Johansson och/eller Anders Nilsson via [cloud-contact@sunet.se](mailto:cloud-contact@sunet.se)
 

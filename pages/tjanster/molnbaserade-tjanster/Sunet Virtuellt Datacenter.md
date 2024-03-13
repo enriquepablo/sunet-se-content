@@ -14,18 +14,15 @@ Translation: false
 
 Sunet Virtuellt Datacenter (VDC) innehåller alla funktioner som behövs för att bygga infrastruktur för IT-tjänster: virtuella maskiner, lagring och IP-adresser i Sunets nät.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Ett VDC innehåller en pool av resurser i form av minne, CPU och disk som kan fördelas mellan olika virtuella maskiner. Tjänsten sköts antingen via API:er eller via en webbaserad “dashboard” där man kan skapa virtuella maskiner, ansluta till konsolen, titta på loggar och göra annan administration. Inloggning till webben sker via SWAMID-ansluten IdP. Vid konfiguration av nya virtuella maskiner kan man välja mellan ett stort antal färdiga varianter med olika mängd minne, CPU, typ av disk och storlek. Stöd för GPU:er är under utveckling. Det går att beställa tilläggsfunktioner kring system- och applikationer – kontakta tjänsteförvaltaren.
 
-Det här krävs för att få tillgång till tjänsten
------------------------------------------------
+## Det här krävs för att få tillgång till tjänsten
 
 Alla som är anslutna till Sunet och har en IdP ansluten till SWAMID kan beställa tjänsten.
 
-Användarstöd och drifthantering
--------------------------------
+## Användarstöd och drifthantering
 
 [Det finns ett forum för konversation kring tjänsten på Sunet Forum](https://forum.sunet.se/s/molntjanster/). Där pratar vi om hur man går tillväga för att administrera tjänsten och best practice för VDC, bland annat. Forumet används även för att annonsera kommande möten om tjänsten.
 
@@ -38,13 +35,11 @@ Tjänsten är placerad i datorhallar i Sverige som är anslutna till Sunets nät
 
 I Safesprings datorhall i Stockholm finns ytterligare en motsvarande sajt, STO1. Hårdvaran ägs av Safespring och här finns både Sunets kunder och andra kunder i infrastruktur som ägs av leverantören (så kallat publikt moln).
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 [Länk till prislista](/wp-content/uploads/2019/09/prislista_2310.pdf).
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 På [Sunet Forum](https://forum.sunet.se/s/molntjanster/) finns mer information om tjänsten.
 

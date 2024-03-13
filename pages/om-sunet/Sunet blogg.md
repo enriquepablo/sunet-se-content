@@ -16,15 +16,13 @@ SunetC
 
 * [SunetC 200G](/wp-content/uploads/2021/05/SunetC200Gblogg-2-1.pdf)
 
-Praktikfall
------------
+## Praktikfall
 
 * [Ett radioteleskop kommer sällan ensamt – 2018-04-18.pdf](/wp-content/uploads/2020/11/Praktikfall-Ett-radioteleskop-kommer-sällan-ensamt-SUNET-2018-04-18.pdf)
 * [Det svenska tidslagret och varför du behöver det – 2018-02-08.pdf](/wp-content/uploads/2020/11/Praktikfall-Det-svenska-tidslagret-och-varför-du-behöver-det-SUNET-2018-02-08.pdf)
 * [Trådlösa nät – AS på SU – 2017-11-29.pdf](/wp-content/uploads/2020/11/Praktikfall-Trådlösa-nät-–-AS-på-SU-SUNET-2017-11-29.pdf)
 
-Teknikbloggen av Fredrik “Hugge” Korsbäck
------------------------------------------
+## Teknikbloggen av Fredrik “Hugge” Korsbäck
 
 * [New toys – 200G DWDM in Juniper QFX10000 – 2017-08-16.pdf](/wp-content/uploads/2021/02/New-toys-–-200G-DWDM-in-Juniper-QFX10000-–-2017-08-16.pdf)
 * [All i want for christmas is … Large BGP Communities – 2016-12-07.pdf](/wp-content/uploads/2021/02/All-i-want-for-christmas-is-…-Large-BGP-Communities-–-2016-12-07.pdf)
@@ -43,8 +41,7 @@ Teknikbloggen av Fredrik “Hugge” Korsbäck
 * [First test on real fibre! – 2015-11-17.pdf](/wp-content/uploads/2021/02/First-test-on-real-fibre-–-2015-11-17.pdf)
 * [Tales from the crypt, a first look into the new SUNET – 2015-10-29.pdf](/wp-content/uploads/2021/02/Tales-from-the-crypt-a-first-look-into-the-new-SUNET-–-2015-10-29.pdf)
 
-CTO-bloggen av Leif Johansson och Per Nihlén
---------------------------------------------
+## CTO-bloggen av Leif Johansson och Per Nihlén
 
 * [eduroam, gästnät och identiteter – 2017-09-26.pdf](/wp-content/uploads/2021/02/eduroam-gästnät-och-identiteter-–-2017-09-26.pdf)
 * [e-signering – 2016-09-25](/wp-content/uploads/2021/02/e-signering-–-2016-09-25.pdf) [GÉANT upphandlar molntjänster – 2016-11-08.pdf](/wp-content/uploads/2021/02/GÉANT-upphandlar-molntjänster-–-2016-11-08.pdf)
@@ -53,8 +50,7 @@ CTO-bloggen av Leif Johansson och Per Nihlén
 * [The Future of Adobe Connect – 2016-05-10.pdf](/wp-content/uploads/2021/02/The-Future-of-Adobe-Connect-–-2016-05-10.pdf)
 * [NREN vs Internet – 2016-05-02.pdf](/wp-content/uploads/2021/02/NREN-vs-Internet-–-2016-05-02.pdf)
 
-Bloggen Fiberfeber av Jörgen Städje
------------------------------------
+## Bloggen Fiberfeber av Jörgen Städje
 
 **Grundläggande om:**
 

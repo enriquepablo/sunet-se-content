@@ -14,8 +14,7 @@ Translation: false
 
 eduroam är en teknisk lösning som gör det enkelt och säkert att använda trådlösa nät. Genom ett internationellt samarbete förmedlar eduroam inloggningsinformation om användare till det lärosäte eller den organisation som står för det trådlösa nätverket. Snabbt och smidigt.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 För att använda eduroam behövs dels en enhet (laptop/mobil/läsplatta) med WiFi-anslutning, dels en identitet (ett användarkonto eller ett klientcertifikat) från en organisation som är ansluten till eduroam. Använd hemorganisationens inställningar när du konfigurerar din dator för inloggning till eduroam, oavsett var du själv befinner dig.
 
@@ -23,8 +22,7 @@ eduroam är en förkortning av EDUcation ROAMing. Tekniken fungerar även på tr
 
 Varje land som är anslutet till eduroam har sin egen webbplats med detaljerad information om var eduroam är tillgängligt. På eduroam.org finns en internationell eduroamkarta och länkar till alla nationella eduroamsajter.
 
-Detta krävs för att få tillgång till tjänsten
----------------------------------------------
+## Detta krävs för att få tillgång till tjänsten
 
 ### Om organisationen vill bli identitetsutfärdare:
 
@@ -38,18 +36,15 @@ För att kunna ge besökare tillgång till eduroam behöver din organisation ing
 
 Några tekniska specifikationer måste uppfyllas. Du hittar denna information på GÉANT:s [tekniskt inriktade wiki-space för eduroam](https://wiki.geant.org/display/H2eduroam/How+to+deploy+and+promote+eduroam+for+events). Kontakta också SWAMID Operations om din organisation vill ansluta sig till eduroam-federationen.
 
-Användarstöd
-------------
+## Användarstöd
 
 Det finns inget centralt användarstöd för eduroam. Organisationer som beställer eduroam ansvarar själva för att  ge sina egna användare stöd.  Däremot bistår eduroam med stöd på organisationsnivå.
 
-Här finns eduroam i Sverige
----------------------------
+## Här finns eduroam i Sverige
 
 Informationen på kartan är hämtad från [meta.eduroam.se](https://meta.eduroam.se/). För att kartan ska vara korrekt är det viktigt att du som ansvarar för driften av trådlösa nätverk som tillhandahåller eduroam håller information i tjänsten uppdaterad. Kontakta  [SWAMID Operations](https://wiki.sunet.se/display/SWAMID/Contact+SWAMID) för att administrera informationen i meta.eduroam.se. Minst en person vid varje organisation måste kunna logga in där
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Läs mer på [eduroams internationella webbplats](https://www.eduroam.org/).
 

@@ -14,8 +14,7 @@ Translation: false
 
 Via Sunets nät, SunetC, får svenska lärosäten och andra offentliga organisationer som sysslar med forskning eller högre utbildning tillgång till internet och de globala forskningsnäten. Lika stabilt, snabbt och säkert i Abisko som i Gamla Stan.
 
-Så fungerar Sunets nät
-----------------------
+## Så fungerar Sunets nät
 
 Sunets nät, SunetC, erbjuder vanlig routad nätaccess. Det går också att få en dedikerad förbindelse direkt mellan två punkter, via en icke-routad förbindelse. Dessutom kan vi koppla ihop två datornät så att de fungerar som ett gemensamt, till exempel vid samarbeten mellan lärosäten. Liknande dedikerade förbindelser med forskningsnät i andra länder går ofta att ordna i samarbete med andra forskningsnät.
 
@@ -23,8 +22,7 @@ Sunets nät består av hyrd optisk fiber i en struktur med tre fysiska vägar ge
 
 För att få diversitet och redundans är de flesta organisationer anslutna med dubbla förbindelser.
 
-Detta krävs för att få tillgång till Sunets nät
------------------------------------------------
+## Detta krävs för att få tillgång till Sunets nät
 
 Ett grundläggande krav för att få ta del av Sunets nät är att verksamheten är relaterad till forskning eller högre utbildning. Sveriges universitet och högskolor är anslutna till nätet genom vårt regleringsbrev. Övriga lärosäten och andra offentliga organisationer med koppling till forskning eller högre utbildning kan teckna avtal med Sunet för att ansluta sig.
 

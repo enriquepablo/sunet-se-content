@@ -15,8 +15,7 @@ SUNET har som syfte att tillhandahålla snabb och tillförlitlig datakommunikati
 
 Denna IT-säkerhetspolicy har till syfte att tydliggöra mål och ansvarsfördelning för IT-säkerhetsarbetet inom SUNET.
 
-Ansvarsfördelning
------------------
+## Ansvarsfördelning
 
 ### Vetenskapsrådet
 
@@ -86,8 +85,7 @@ Den samordningsanvarige skall upprätta en kontinuitetsplan som fastslås av SUN
 
 SUNET begränsar normalt inte trafiken som transporteras i nätet. Se dock avsnittet om skyddsåtgärder nedan. Utöver detta kan SUNET:s styrelse i särskilda fall besluta om begränsningar av trafiken. Anslutna organisationer skall informeras om detta.
 
-KONFIDENTIALITET OCH INTEGRITET
--------------------------------
+## KONFIDENTIALITET OCH INTEGRITET
 
 SUNET garanterar inte konfidentialitet eller integritet för data som överförs över nätet. Därför måste den som har krav på konfidentialitet elller integritet själv vidta de skyddsåtgärder som erfordras.
 
@@ -97,8 +95,7 @@ SUNET har rätt att insamla trafikstatistik som dock inte får vara spårbar til
 
 Den som genom anställning eller uppdrag ges tillgång till information avseende nättrafik eller information i datasystem inom SUNET skall iaktta tystnadsplikt utanför tjänsten avseende denna information. Denna tystnadsplikt inskränker inte dennes rättigheter i enlighet med lag och förordning.
 
-Skyddsåtgärder
---------------
+## Skyddsåtgärder
 
 Vid incidenter/trafikstörningar (till exempel “denial-of-service-attacker”) kan tillfälliga åtgärder för filtering av trafiken vidtas av NOC för att begränsa skadan. Den anslutna organisationen kan själv begära att NOC inför sådan filtrering. I övrigt kan NOC eller SUNET CERT begära filtrering. I detta fall skall den anslutna organisationen först kontaktas för att lösa problemet eller acceptera att filtrering införs. Går den anslutna organisationen inte att nå eller problemet kvarstår kan samordningsansvarige besluta om filtrering. Går inte den samordningsansvarige att nå kan tillfälligt beslut fattas av NOC eller SUNET CERT. Då ska den samordningsansvarige meddelas så fort det är möjligt. Åtgärden skall vara så specifik som möjligt för att undvika sidoeffekter.
 

@@ -14,8 +14,7 @@ Translation: false
 
 Med Sunets molnbaserade backuptjänst får din organisation en skräddarsydd säkerhetskopiering. Tjänsten är flexibel. Varje organisation bestämmer själv vilken data som ska säkerhetskopieras, hur materialet ska krypteras och hur länge det ska sparas. Fokus ligger på att organisationen ska ha kontroll över sitt innehåll och kostnaderna för detta.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Sunets backuptjänst har hög säkerhet. Det beror på att den har rollbaserad åtkomstkontroll knuten till SWAMIDs inloggningstjänst, att den har hög tillgänglighet och parallella anslutningar till Sunet och på att säkerhetskopior krypteras både under transporten och vid den helt diskbaserade lagringen.
 
@@ -27,18 +26,15 @@ Spectrum Protect-tekniken, som tjänsten är baserad på, har flera datareducera
 
 Varje organisation som använder backuptjänsten har tillgång till minst 5 Gbit/s aggregerad krypterad genomströmning Eftersom tjänsten är diskbaserad har den också mycket god parallellitet .
 
-Detta krävs för att få tillgång till tjänsten
----------------------------------------------
+## Detta krävs för att få tillgång till tjänsten
 
 Alla organisationer som är anslutna till Sunet och medlemmar i identitetsfederationen SWAMID kan beställa Sunet Backup.
 
-Användarstöd
-------------
+## Användarstöd
 
 Varje organisation som beställer tjänsten är själv ansvarig för att erbjuda support i form av teknikstöd och problemklassificering till sina egna användare. Sunet ger support till de kontaktpersoner för tjänsten som finns på organisationerna.
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 Varje organisation betalar enbart för den mängd data som säkerhetskopieras och lagras. Tack vare datareduktionsteknikerna blir datavolymen för säkerhetskopiorna i normalfallet betydligt lägre än den ursprungliga datavolymen, trots att säkerhetskopior skapas varje dag och sparas flera månader.
 
@@ -52,8 +48,7 @@ Rörlig avgift 1,75 kr per GB  och månad på datavolym som överstiger 1 TB.
 
 Rörlig avgift på datavolym 0,824 kr per GB  och månad.
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 [Länk till dokumentation om säkerhetsarbete som utförs i tjänsterna.](https://www.safespring.com/dokument/sunet/)
 

@@ -11,30 +11,26 @@ Translation: false
 
 Här hittar du uppgifter om fakturor och hur de ska skickas.
 
-Organisationsnummer
--------------------
+## Organisationsnummer
 
 Sunet är en avdelning på Vetenskapsrådet och har organisationsnummer 202100-5208.
 
 För utländska leverantörer är vårt organisationsnummer (VAT): SE202100520801.
 
-Faktureringsadress
-------------------
+## Faktureringsadress
 
 Vetenskapsrådet  
 FE 57  
 838 73 Frösön  
 (Ange referenskod AGLI)
 
-Leveransadress
---------------
+## Leveransadress
 
 Vetenskapsrådet/Sunet  
 Tulegatan 11, plan 2  
 113 53 Stockholm
 
-Fakturor till Vetenskapsrådet/Sunet
------------------------------------
+## Fakturor till Vetenskapsrådet/Sunet
 
 Från och med april 2019 är det lag på att alla inköp i offentlig sektor ska faktureras med e-faktura.
 
@@ -65,8 +61,7 @@ Gå in på [www.fakturaportalen.se](http://www.fakturaportalen.se) och anslut di
 > 
 > 
 
-Om du har frågor
-----------------
+## Om du har frågor
 
 Kontakta ekonomi via e-post: [ekonomi@vr.se](mailto:ekonomi@vr.se)
 

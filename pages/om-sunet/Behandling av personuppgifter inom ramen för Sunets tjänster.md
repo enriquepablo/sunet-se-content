@@ -11,8 +11,7 @@ Translation: false
 
 Här kan du läsa mer om hur vi arbetar med behandling av personuppgifter inom ramen för våra tjänster.
 
-Personuppgiftsbiträdesavtal
----------------------------
+## Personuppgiftsbiträdesavtal
 
 När den allmänna dataskyddsförordningen (EU 2016/679), GDPR, trädde i kraft erbjöds användarna av tjänster som tillhandahålls av Sunet att teckna ett generellt personuppgiftsbiträdesavtal för att reglera behandlingen av användarnas personuppgifter inom ramen för tjänsterna. Det vill säga ett personuppgiftsbiträdesavtal (PUBA) som reglerar den behandling av användarens personuppgifter som Sunet och externa leverantörer gör inom ramen för de tjänster som används.
 
@@ -40,13 +39,11 @@ Sunet arbetar nu med att på sikt erbjuda användarna att istället teckna ett p
 | [Textmatchning](/services/samarbete/textmatchning) | – |
 | [Sunet Tal-till-text](/services/samarbete/tal-till-text) | – |
 
-Personuppgiftsbehandling inom Sunets tjänster
----------------------------------------------
+## Personuppgiftsbehandling inom Sunets tjänster
 
 * [Behandling av personuppgifter i eduID](/om-sunet/behandling-av-personuppgifter-i-eduid/)
 
-Kontakt
--------
+## Kontakt
 
 Om du som dataskyddsombud hos någon av våra användare har frågor som rör detta eller vill ta del av något av de personuppgiftsbiträdesavtal som Sunet tecknat med leverantören för en eller flera tjänster, kontakta dpa@sunet.se.
 

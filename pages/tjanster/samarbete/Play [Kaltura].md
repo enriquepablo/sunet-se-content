@@ -14,8 +14,7 @@ Translation: false
 
 Med Sunets molnbaserade tjänst Play kan du lagra och dela med dig av ljud och bild och på så vis skapa och underhålla ett mediebibliotek. Tjänsten har en rad användbara tilläggsfunktioner.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Sunets tjänst Play är integrerad med LMS-plattformar (till exempel Canvas, Moodle etc) och fungerar även tillsammans med andra system tack vare ett omfattande API. Tjänsten bygger på företaget Kalturas plattform. Organisationer som ansluter sig till tjänsten får installera en egen adress (till exempel play.lärosäte.se). På denna kan de aktivera de tilläggsfunktioner som finns i Kaltura.
 
@@ -31,18 +30,15 @@ Kunder som är anslutna till tjänsten kan logga in på play.lärosäte.se via S
 
 Alla rättigheter till data som lagras i tjänsten ägs av den organisation som beställer Play.
 
-Detta krävs för att få tillgång till tjänsten
----------------------------------------------
+## Detta krävs för att få tillgång till tjänsten
 
 Organisationer som är anslutna till Sunet och medlemmar i identitetsfederationen SWAMID kan beställa Play från Sunet, förutsatt att de dessutom är anslutna till SWAMID SAML/WebSSO för inloggning till federerade webb-applikationer.
 
-Användarstöd
-------------
+## Användarstöd
 
 Sunet har inget centralt användarstöd för Play. Organisationer som beställer tjänsten är själva ansvariga att erbjuda sina egna användare hjälp.
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 Avgiften för att använda Play består av tre delar:
 
@@ -54,8 +50,7 @@ Avgiften för att använda Play består av tre delar:
 
 För prisuppgifter, kontakta [media@sunet.se](mailto:media@sunet.se)
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Mer detaljerad information om tjänsten finns på [sidan för Play på Sunets wiki](https://wiki.sunet.se/display/play/).
 

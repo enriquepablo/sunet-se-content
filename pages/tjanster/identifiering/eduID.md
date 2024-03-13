@@ -14,13 +14,11 @@ Translation: false
 
 eduID är en digital identitet för organisationer inom utbildning och forskning. Med eduID kan studenter och anställda vid anslutna lärosäten snabbt skaffa ett lokalt IT-konto och därigenom komma åt sina lokala IT-resurser. En eduID-identitet kan användas före, under och efter studietiden.
 
-Så fungerar tjänsten
---------------------
+## Så fungerar tjänsten
 
 Skapa en eduID-identitet via [eduid.se](http://eduid.se/) och anpassa den till den säkerhetsnivå som krävs av tjänsten där identiteten ska användas. Det finns flera nivåer och kombinationer för olika behov, från låg säkerhetsnivå där bekräftelse av e-postadress räcker, till mycket hög säkerhetsnivå via e-legitimation med genomförd legitimationskontroll.
 
-Använd eduID för att:
----------------------
+## Använd eduID för att:
 
 * få tillgång till anslutna lärosätens lokala it-konton och därigenom till lokala IT-resurser
 * återställa lösenord för anslutna lärosätens lokala it-konton
@@ -34,25 +32,21 @@ Syftet med eduID är att erbjuda framförallt lärosäten gemensamma rutiner fö
 
 eduID bygger på öppen källkod. [Källkoden finns här](https://github.com/SUNET)
 
-Vad krävs för att få tillgång till tjänsten?
---------------------------------------------
+## Vad krävs för att få tillgång till tjänsten?
 
 eduID riktar sig framförallt till organisationer som är kopplade till utbildning och forskning och ingår i anslutningsavgiften till Sunet. Alla tjänster som är anslutna till SWAMID kan använda eduID direkt.
 
 Inom ramen för Digitala nationella prov erbjuds även eduID till skolhuvudmän. Det krävs inte att man är ansluten till Sunet för att kunna använda eduID i detta fall.
 
-Användarstöd
-------------
+## Användarstöd
 
 eduID-supporten nås via [support@eduid.se](mailto:support@eduid.se). Ange den e-postadress som du använder när du loggar in på eduID när du kontaktar supporten. Vid fel, skicka gärna med skärmdumpar med felmeddelanden för att underlätta felsökning.
 
-Vad kostar det?
----------------
+## Vad kostar det?
 
 eduID ingår i avgiften till Sunet och kostar inget extra för studenter och anställda vid lärosäten som är anslutna till Sunet.
 
-Vill du veta mer?
------------------
+## Vill du veta mer?
 
 Har du behov av digital identitet och vill veta om och hur eduID kan användas och anpassas till din organisation, kontakta gärna tjänsteansvarig.
 

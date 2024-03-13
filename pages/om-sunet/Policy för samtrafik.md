@@ -12,8 +12,7 @@ Translation: false
 Denna policy för samtrafik med andra internetoperatörer är fastställd av Sunets styrelse den 17 januari 2008.  
 I detta sammanhang definieras en internetoperatör som den som driver verksamhet inom internetområdet och har eget AS-nummer, samt ej använder ”defaultrouting”. Denna policy beskriver **inte** Sunets policy för samtrafik gentemot universitet, högskolor et. c.
 
-Samtrafik (peering)
--------------------
+## Samtrafik (peering)
 
 * Samtrafiken bedöms av styrelsen för Sunet vara till nytta för Sunets användare.
 * Samtrafik (peering) sker via den eller de nationella internetknutpunkter till vilka Sunet har anslutning eller via annan sammankopplingspunkt till vilken Sunet har anslutning.
@@ -22,13 +21,11 @@ Samtrafik (peering)
 * Överenskommelse om samtrafik gäller tills vidare om inte någondera parten säger upp avtalet. Uppsägning skall ske med en (1) månads varsel.
 * Sunet har rätt att, utan avgivande av ersättning, omedelbart bryta överenskommelsen om samtrafik om här angivna förutsättningar inte uppfylls.
 
-Förmedling av trafik mellan internetoperatörer
-----------------------------------------------
+## Förmedling av trafik mellan internetoperatörer
 
 Sunet förmedlar inte trafik (s.k. transit) mellan Internetoperatörer.
 
-Tekniska riktlinjer för routing m. m. vid samtrafik med Sunet
--------------------------------------------------------------
+## Tekniska riktlinjer för routing m. m. vid samtrafik med Sunet
 
 * Routing skall ske med BGP4 (RFC 1171, RFC 2858), och samtrafiken skall ske på ett tekniskt sunt sätt.
 * Routing får ej utbytas över knutpunkt eller annan sammankopplingspunkt med routingprotokoll som utnyttjar multicast eller broadcast, t.ex. RIP eller OSPF.

@@ -11,8 +11,7 @@ Translation: false
 
 Sunet är en del av Vetenskapsrådet och är sedan 1 december 2018 en avdelning på myndigheten – “*Avdelningen för Sunet och anknutna tjänster*“. Sunet styrs av en kommitté med följande medlemmar:
 
-Sunets kommitté
----------------
+## Sunets kommitté
 
 * **Ylva Fältholm**, ordförande, rektor Högskolan i Gävle
 * **Jan-Ingvar Jönsson**, ledamot, rektor Linköpings universitet
@@ -29,8 +28,7 @@ Nomineringarna görs av Sveriges universitets-och högskoleförbund (SUHF), Kung
 
 Regeringens löpande styrning av myndigheterna sker genom årliga så kallade regleringsbrev. Där framgår hur mycket pengar den har till sitt förfogande och hur pengarna ska fördelas mellan dess olika verksamheter samt vissa uppdrag som myndigheten ska utföra under året.
 
-Sunets styrdokument
--------------------
+## Sunets styrdokument
 
 * [Vetenskapsrådets instruktion](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/forordning-2009975-med-instruktion-for_sfs-2009-975)  
 
@@ -42,8 +40,7 @@ Regeringens löpande styrning av myndigheterna sker genom årliga så kallade re
 
 Sunets kommittés inriktningsdokument för 2023-2026.
 
-Årsplaner
----------
+## Årsplaner
 
 * [Sunets verksamhetsplan 2024 (pdf, 486 kB)](/wp-content/uploads/2023/12/Sunets-verksamhetsplan-2024.pdf)
 * [Sunets verksamhetsplan 2023 (pdf, 304 kB)](/wp-content/uploads/2023/07/Sunets-verksamhetsplan-2023.pdf)
@@ -54,8 +51,7 @@ Sunets kommittés inriktningsdokument för 2023-2026.
 * [Handlingsplan Sunet 2018 (pdf, 900 kB)](/wp-content/uploads/2018/12/Sunet-HP-2018.pdf)
 * [Verksamhetsplan Sunet 2017 (pdf, 846 kB)](/wp-content/uploads/2018/12/Sunet-VP-2017.pdf)
 
-Verksamhetsberättelser
-----------------------
+## Verksamhetsberättelser
 
 * [Sunets verksamhetsberättelse 2022 (pdf, 281 kB)](/wp-content/uploads/2023/07/Sunets-verksamhetsberättelse-2022.pdf)
 * [Sunets verksamhetsberättelse 2021 (pdf, 334 kB)](/wp-content/uploads/2022/04/Sunets-verksamhetsberättelse-2021.pdf)
@@ -67,8 +63,7 @@ Verksamhetsberättelser
 * [Verksamhetsberättelse Tilläggstjänster 2017 (pdf, 116 kB)](/wp-content/uploads/2020/04/VB-2017-Sunets-tilläggstjänster.pdf)
 * [Sunets verksamhetsberättelse 2016 (pdf, 353 kB)](/wp-content/uploads/2020/04/Verksamhetsberattelse-Sunet-2016.pdf)
 
-Kommittéprotokoll
------------------
+## Kommittéprotokoll
 
 ### 2023
 
