@@ -1,3 +1,4 @@
+---
 Title: Fildelning och samarbete [Box]
 Subtitle: Samarbeta kring, lagra och dela filer i molnet
 Date: 2019-08-31T17:02:38
@@ -9,6 +10,7 @@ Category: Molnbaserade tjänster
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunets molnbaserade filhanteringsverktyg kan du lagra och dela filer.  Tjänsten har också välutvecklade synkroniserings- och samarbetsfunktioner.
 

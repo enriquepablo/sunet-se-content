@@ -1,3 +1,4 @@
+---
 Title: SWAMID person-proofed multi-factor profile
 Date: 2019-10-11T14:16:16
 Modified: 2019-10-11T14:16:16
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 I identitetsfederationen SWAMID är tillit till att universitet, högskolor och andra medlemmar hanterar användare och inloggningar tillräckligt bra grunden för att tjänsteleverantörer ska lita på att det är rätt användare som loggar in. För att definiera vad som är tillräckligt bra finns tillitsprofiler i SWAMID. Normalt sett räcker kraven i SWAMID AL2 men i vissa fall behövs stärkt inloggningssäkerhet genom multifaktorinloggning och eventuellt höjda identifieringskrav av individen bakom användaren.
 

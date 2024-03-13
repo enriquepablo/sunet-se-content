@@ -1,3 +1,4 @@
+---
 Title: IT-säkerhetspolicy
 Date: 2020-05-13T19:26:11
 Modified: 2023-10-02T10:24:45
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Denna IT-säkerhetspolicy är fastställd av Sunets styrelse den 17 januari 2008 och gäller fortfarande.
 

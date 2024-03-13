@@ -1,3 +1,4 @@
+---
 Title: E-postlistor
 Subtitle: Hitta rätt med mailen
 Date: 2019-06-26T09:58:32
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Nå ut med ditt budskap snabbt och lätt genom att anpassa målgrupperna i en sorterad e-postlista.
 

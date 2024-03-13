@@ -1,3 +1,4 @@
+---
 Title: Textmatchning [Ouriginal]
 Subtitle: Upptäck och förebygg plagiering genom analys av uppladdade dokument
 Date: 2021-10-07T13:09:00
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunets tjänst för textmatchning kan du arbeta med att upptäcka och förebygga plagiering av texter. Tjänsten bygger på företaget Ouriginals verktyg (tidigare Urkund) och kan enkelt integreras i olika typer av lärplattformar eller andra system.
 

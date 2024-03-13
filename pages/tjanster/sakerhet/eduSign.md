@@ -1,3 +1,4 @@
+---
 Title: eduSign
 Subtitle: Säker digital underskrift och validering
 Date: 2020-12-14T12:09:21
@@ -9,6 +10,7 @@ Category: Säkerhet
 Authors: 
 Lang: sv
 Translation: false
+---
 
 eduSign är säkra och enkla e-signaturer för Sunet kunder. Till eduSign finns även en valideringstjänst för att validera och säkert arkivera de digitala signaturerna. Legitimering sker med e-identitet ansluten till SWAMID och för processer som kräver externa parters signatur kan eduID användas. Tjänsten kan även integreras med egna system via ett API.
 

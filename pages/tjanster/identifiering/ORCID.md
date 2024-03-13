@@ -1,3 +1,4 @@
+---
 Title: ORCID
 Subtitle: Permanent digital identifikation oberoende av organisatorisk hemvist.
 Date: 2019-08-20T13:06:21
@@ -9,6 +10,7 @@ Category: Identifiering
 Authors: 
 Lang: sv
 Translation: false
+---
 
 ORCID är ett internationellt system för att ge forskare en permanent digital identifikation. En forskares ORCID är detsamma oberoende av var hen har sin organisatoriska hemvist. Det gör det lättare att bygga upp en bibliografi över forskarens publiceringar etc.
 

@@ -1,3 +1,4 @@
+---
 Title: TILLITSPROFIL SWAMID AL1
 Date: 2019-10-11T13:52:54
 Modified: 2019-10-11T13:58:42
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 I identitetsfederationen SWAMID är tillit till att universitet, högskolor och andra medlemmar hanterar användare och inloggningar tillräckligt bra grunden för att tjänsteleverantörer ska lita på att det är rätt användare som loggar in. För att definiera vad som är tillräckligt bra finns tillitsprofiler i SWAMID.
 

@@ -1,3 +1,4 @@
+---
 Title: Sunet Tal-till-text [Amberscript]
 Subtitle: Transkribera ljud och undertexta videofiler
 Date: 2021-12-16T16:13:28
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunet Tal-till-text kan du ladda upp ljud- och videofiler för transkribering eller undertextning. Det finns även stöd för undertextning i fler än ett språk och tillgång till ett API.
 

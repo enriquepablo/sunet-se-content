@@ -1,3 +1,4 @@
+---
 Title: Personer som informerat om säkerhetsproblem i Sunets system och tjänster
 Date: 2022-04-13T10:48:08
 Modified: 2023-01-31T11:08:20
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Nedan listas personer som på ett positivt och ansvarsfullt sätt har bidragit till Sunets säkerhetsarbete genom att upplysa oss om säkerhetsproblem i våra system och tjänster. Denna listan underhålls som ett led i [Sunets säkerhetsarbete](/om-sunet/sakerhet).
 

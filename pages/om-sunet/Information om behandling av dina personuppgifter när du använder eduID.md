@@ -1,3 +1,4 @@
+---
 Title: Information om behandling av dina personuppgifter när du använder eduID
 Date: 2022-04-08T13:26:22
 Modified: 2023-09-08T15:59:52
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Allmänt om oss
 --------------

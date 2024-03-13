@@ -1,3 +1,4 @@
+---
 Title: Om Sunet
 Date: 2019-10-05T07:17:20
 Modified: 2023-07-10T13:23:42
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet (Swedish University Computer Network) har som uppgift att tillgodose behovet av datakommunikation hos svenska lärosäten och andra offentliga organisationer med koppling till forskning eller högre utbildning. Sunet levererar även valbara tilläggstjänster till många anslutna organisationer.
 

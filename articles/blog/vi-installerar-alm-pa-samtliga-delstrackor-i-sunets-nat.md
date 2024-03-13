@@ -1,3 +1,4 @@
+---
 Title: Vi installerar ALM på samtliga delsträckor i Sunets nät
 Date: 2023-12-12T14:50:43
 Modified: 2023-12-13T12:05:38
@@ -7,6 +8,7 @@ Category: blogg
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Nyligen besökte Sunets avdelningschef Maria Häll och Jonny Lundin, enhetschef för drift, Boden för att genomföra en ALM-installation på ett par delsträckor av Sunets nät.
 

@@ -1,3 +1,4 @@
+---
 Title: OCRE
 Date: 2021-01-26T14:14:11
 Modified: 2021-02-04T17:05:52
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet erbjuder ”Infrastructure as a Service”-tjänster via ett ramavtal med GÉANT. Ramavtalet inkluderar Microsoft Azure, IBM, ORACLE, Google Compute Engine och Amazon Web Services (AWS) men även leverantörer av publika och privata molntjänster levererade i Sverige av Blue SafeSpring.
 

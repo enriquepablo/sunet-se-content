@@ -1,3 +1,4 @@
+---
 Title: Sunet Virtuellt Datacenter
 Subtitle: IT-infrastruktur i Sunets egna datacenter
 Date: 2023-11-27T14:43:41
@@ -9,6 +10,7 @@ Category: Molnbaserade tjänster
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet Virtuellt Datacenter (VDC) innehåller alla funktioner som behövs för att bygga infrastruktur för IT-tjänster: virtuella maskiner, lagring och IP-adresser i Sunets nät.
 

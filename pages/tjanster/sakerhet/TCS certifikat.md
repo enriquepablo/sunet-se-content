@@ -1,3 +1,4 @@
+---
 Title: TCS certifikat
 Subtitle: Certifikat för servrar och användare
 Date: 2019-08-26T14:53:59
@@ -9,6 +10,7 @@ Category: Säkerhet
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Ett certifikat från en betrodd leverantör ger ett grundläggande skydd och visar att servern är korrekt, och skyddad mot avlyssning. Med hjälp av Sunet TCS kan din organisation utfärda certifikat för servrar inom era DNS-domäner utan extra kostnad. Även personliga certifikat och kodsigneringscertifikat ingår.
 

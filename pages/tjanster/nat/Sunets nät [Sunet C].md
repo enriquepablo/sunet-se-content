@@ -1,3 +1,4 @@
+---
 Title: Sunets nät [Sunet C]
 Subtitle: Rikstäckande, stabilt, snabbt och driftsäkert nät
 Date: 2019-08-28T10:56:21
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Via Sunets nät, SunetC, får svenska lärosäten och andra offentliga organisationer som sysslar med forskning eller högre utbildning tillgång till internet och de globala forskningsnäten. Lika stabilt, snabbt och säkert i Abisko som i Gamla Stan.
 

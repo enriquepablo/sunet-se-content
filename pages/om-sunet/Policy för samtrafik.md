@@ -1,3 +1,4 @@
+---
 Title: Policy för samtrafik
 Date: 2020-09-30T13:50:07
 Modified: 2022-11-15T14:23:04
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Denna policy för samtrafik med andra internetoperatörer är fastställd av Sunets styrelse den 17 januari 2008.  
 I detta sammanhang definieras en internetoperatör som den som driver verksamhet inom internetområdet och har eget AS-nummer, samt ej använder ”defaultrouting”. Denna policy beskriver **inte** Sunets policy för samtrafik gentemot universitet, högskolor et. c.

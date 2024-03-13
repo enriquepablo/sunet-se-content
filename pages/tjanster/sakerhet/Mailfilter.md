@@ -1,3 +1,4 @@
+---
 Title: Mailfilter
 Subtitle: Slipp spam och virus - enkel central användning av antivirusprogram och spamsortering 
 Date: 2018-12-06T14:11:17
@@ -9,6 +10,7 @@ Category: Säkerhet
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunets Mailfilter gör det enkelt att sköta antivirusprogram och spamsortering centralt.
 

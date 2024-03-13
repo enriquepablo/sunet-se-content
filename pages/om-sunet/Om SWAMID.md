@@ -1,3 +1,4 @@
+---
 Title: Om SWAMID
 Date: 2019-10-11T13:03:33
 Modified: 2020-09-30T11:00:13
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 En identitetsfederations vara eller icke vara beror på alla parters tillit till federationen. Därför finns en federationspolicy som reglerar organisation och arbetssätt samt ett regelverk för identitetsutgivare och tjänsteleverantörer.
 

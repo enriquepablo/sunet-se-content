@@ -1,3 +1,4 @@
+---
 Title: Säkerhetskopiering [BaaS]
 Subtitle: Skräddarsydd säkerhetskopiering ger kontroll över innehåll och kostnader
 Date: 2019-09-05T20:36:58
@@ -9,6 +10,7 @@ Category: Molnbaserade tjänster
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunets molnbaserade backuptjänst får din organisation en skräddarsydd säkerhetskopiering. Tjänsten är flexibel. Varje organisation bestämmer själv vilken data som ska säkerhetskopieras, hur materialet ska krypteras och hur länge det ska sparas. Fokus ligger på att organisationen ska ha kontroll över sitt innehåll och kostnaderna för detta.
 

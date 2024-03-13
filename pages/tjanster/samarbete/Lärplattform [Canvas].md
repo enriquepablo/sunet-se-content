@@ -1,3 +1,4 @@
+---
 Title: Lärplattform [Canvas]
 Subtitle: Skapa en virtuell kursmiljö där lärare, studenter och administratörer samarbetar
 Date: 2019-08-19T14:45:21
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunet LMS skapar du en virtuell kursmiljö, där lärare, studenter och administratörer kan kommunicera, ge feedback, presentera, samarbeta och administrera.
 

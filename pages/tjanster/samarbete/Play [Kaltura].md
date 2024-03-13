@@ -1,3 +1,4 @@
+---
 Title: Play [Kaltura]
 Subtitle: Dela med dig av ljud och bild
 Date: 2018-12-06T13:47:23
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunets molnbaserade tjänst Play kan du lagra och dela med dig av ljud och bild och på så vis skapa och underhålla ett mediebibliotek. Tjänsten har en rad användbara tilläggsfunktioner.
 

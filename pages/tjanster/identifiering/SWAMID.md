@@ -1,3 +1,4 @@
+---
 Title: SWAMID
 Subtitle: Säker inloggning till nationella och internationella tjänster för forskare, lärare och studenter
 Date: 2018-12-06T14:12:52
@@ -9,6 +10,7 @@ Category: Identifiering
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Genom identitetsfederationen SWAMID kan din organisation använda kvalitetssäkrad och säker inloggning för forskare, lärare och studenter i olika tjänster – både i och utanför Sverige.
 

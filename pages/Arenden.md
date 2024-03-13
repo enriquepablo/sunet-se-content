@@ -1,3 +1,4 @@
+---
 Title: Open Trouble Tickets
 TabTitle: Arenden
 Date: 2022-11-24T15:05:36
@@ -7,6 +8,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 To report a fault please contact SUNET NOC via e-mail or telephone. For urgent matters, please use the telephone.
 

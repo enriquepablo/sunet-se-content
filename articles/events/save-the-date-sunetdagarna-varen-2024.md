@@ -1,3 +1,4 @@
+---
 Title: Sunetdagarna våren 2024
 Date: 2024-01-08T09:16:24
 Modified: 2024-01-24T11:14:55
@@ -10,6 +11,7 @@ Category: evenemang
 Authors: 
 Lang: sv
 Translation: false
+---
 
 I vår arrangerar vi Sunetdagarna den 23–25 april på Uppsala universitet. Anmälan öppnar snart!
 

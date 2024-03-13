@@ -1,3 +1,4 @@
+---
 Title: Sunet Drive
 Subtitle: Lagra och dela dina filer
 Date: 2021-04-20T12:30:58
@@ -9,6 +10,7 @@ Category: Molnbaserade tjänster
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet Drive är en lagrings- och fildelningstjänst. Tjänsten är lokaliserad på svenska servrar och gör det möjligt för exempelvis forskare att kunna arbeta och samarbeta med stora datamängder. Sunet Drive låter datan följa forskaren istället för tvärtom.
 

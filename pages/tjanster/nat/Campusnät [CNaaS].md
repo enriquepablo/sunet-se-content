@@ -1,3 +1,4 @@
+---
 Title: Campusnät [CNaaS]
 Subtitle: Nätverk som tjänst i samverkan med lärosäten
 Date: 2020-12-14T11:28:38
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunets Campusnät levererar drift, övervakning och support till, och i samarbete med, lärosäten som har behov av en managerad tjänst för LAN/WLAN-nätverk.
 

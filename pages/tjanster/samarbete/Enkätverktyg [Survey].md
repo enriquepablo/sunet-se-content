@@ -1,3 +1,4 @@
+---
 Title: Enkätverktyg [Survey]
 Subtitle: Skapa enkäter och kursutvärderingar, följ upp arbetet i rapporter.
 Date: 2019-08-22T11:11:35
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med den molnbaserade tjänsten Sunet Survey kan du skapa enkäter, kursutvärderingar och andra typer av undersökningar, samt följa upp arbetet i rapporter.
 

@@ -1,3 +1,4 @@
+---
 Title: Sunets nät
 Date: 2019-10-05T07:25:49
 Modified: 2020-10-06T14:05:58
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Via Sunets nät, SunetC, får svenska lärosäten och andra offentliga organisationer som sysslar med forskning eller högre utbildning tillgång till internet och de globala forskningsnäten. Nätet är rikstäckande, stabilt, snabbt och driftsäkert.
 

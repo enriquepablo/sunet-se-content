@@ -1,3 +1,4 @@
+---
 Title: Om kakor på webbplatsen
 Date: 2020-09-30T12:37:55
 Modified: 2020-10-02T10:57:35
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Din integritet är viktig för oss på Sunet, därför sätter webbplatsen ingen kaka när en besökare går in på webbplatsens startsida.
 

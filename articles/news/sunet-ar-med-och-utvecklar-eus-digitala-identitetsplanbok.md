@@ -1,3 +1,4 @@
+---
 Title: Sunet är med och utvecklar EU:s digitala identitetsplånbok
 Date: 2023-01-11T13:15:31
 Modified: 2023-03-22T11:46:06
@@ -7,6 +8,7 @@ Category: nyheter
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet deltar i tre internationella pilotprojekt som nu fått finansiering för att utveckla och testa EU:s digitala identitetsplånbok. Projekten leds av tre konsortier som inom ramen för programmet för ett digitalt Europa, DIGITAL, ska utveckla identitetsplånboken under två år.
 

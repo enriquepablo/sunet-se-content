@@ -1,3 +1,4 @@
+---
 Title: eduroam
 Subtitle: Trådlöst internet – gratis, enkelt och säkert 
 Date: 2019-09-05T14:20:17
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 eduroam är en teknisk lösning som gör det enkelt och säkert att använda trådlösa nät. Genom ett internationellt samarbete förmedlar eduroam inloggningsinformation om användare till det lärosäte eller den organisation som står för det trådlösa nätverket. Snabbt och smidigt.
 

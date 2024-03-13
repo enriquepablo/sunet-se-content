@@ -1,3 +1,4 @@
+---
 Title: Nyhetsbrev: Information om behandling av personuppgifter
 Date: 2021-10-26T15:51:22
 Modified: 2021-10-26T16:01:38
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 I enlighet med den allmänna dataskyddsförordningen (EU 2016/679), GDPR, och kompletterande nationell lagstiftning lämnar Vetenskapsrådet följande information för behandlingen av dina personuppgifter.
 

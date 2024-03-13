@@ -1,3 +1,4 @@
+---
 Title: Stockholm Python User Group Meetup
 Date: 2023-11-21T10:48:14
 Modified: 2024-02-06T14:13:44
@@ -10,6 +11,7 @@ Category: evenemang
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Vi har vår nästa Python-träff den 15 februari! 
 

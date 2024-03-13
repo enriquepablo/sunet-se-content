@@ -1,3 +1,4 @@
+---
 Title: Vetenskapsrådet/Sunet har blivit tilldelade EU-medel för projektet Polar Connect
 Date: 2023-12-22T10:38:07
 Modified: 2023-12-22T10:58:00
@@ -7,6 +8,7 @@ Category: nyheter
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Vetenskapsrådet, NORDUnet och Polarforskningssekretariatet har beviljats medel från EU-kommissionen för North Pole Fiber, den första delen av projektet Polar Connect.
 

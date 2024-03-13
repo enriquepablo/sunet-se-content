@@ -1,3 +1,4 @@
+---
 Title: eduID
 Subtitle: Bekräfta din identitet – säkert, snabbt och enkelt
 Date: 2020-05-23T18:51:58
@@ -9,6 +10,7 @@ Category: Identifiering
 Authors: 
 Lang: sv
 Translation: false
+---
 
 eduID är en digital identitet för organisationer inom utbildning och forskning. Med eduID kan studenter och anställda vid anslutna lärosäten snabbt skaffa ett lokalt IT-konto och därigenom komma åt sina lokala IT-resurser. En eduID-identitet kan användas före, under och efter studietiden.
 

@@ -1,3 +1,4 @@
+---
 Title: Policy för tillåten användning och etiska regler
 Date: 2020-09-30T14:00:57
 Modified: 2023-10-02T10:26:48
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Denna policy för tillåten användning/etiska regler är fastställd av Sunets styrelse den 25 maj 2010.
 

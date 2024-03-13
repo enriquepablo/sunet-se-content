@@ -1,3 +1,4 @@
+---
 Title: SWAMID eduroam technology profile
 Date: 2019-10-11T13:01:50
 Modified: 2019-10-11T13:59:02
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Eduroam (education roaming) är ett världsomspännande samarbete inom forsknings- och utbildningsvärlden för att kunna samutnyttja varandras trådlösa Internet (WiFi). Eduroam använder sig av RADIUS och standarden 802.1x för att förmedla information om användaren från identitetsutfärdaren (användarens lärosäte) till tjänsteleverantören (lärosätet som står för det trådlösa nätverket). SWAMID är ansvarig för den svenska grenen av det internationella nätverket eduroam.
 

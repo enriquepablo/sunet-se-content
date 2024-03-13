@@ -1,3 +1,4 @@
+---
 Title: Sunet erbjuder Zoom Events
 Date: 2022-12-15T10:43:23
 Modified: 2022-12-15T11:18:07
@@ -7,6 +8,7 @@ Category: nyheter
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Nu kan alla Sunets kunder som har avtal för Zoom även teckna avtal för Zoom Events.
 

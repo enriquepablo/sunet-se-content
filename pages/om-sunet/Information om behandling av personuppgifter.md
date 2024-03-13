@@ -1,3 +1,4 @@
+---
 Title: Information om behandling av personuppgifter
 Date: 2020-04-21T17:21:16
 Modified: 2020-10-02T10:45:01
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 
 I enlighet med den allmänna dataskyddsförordningen (EU 2016/679), GDPR, och kompletterande nationell lagstiftning lämnar Vetenskapsrådet, där Sunet är en avdelning, följande information för behandlingen av dina personuppgifter.

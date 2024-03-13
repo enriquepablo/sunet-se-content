@@ -1,3 +1,4 @@
+---
 Title: Uppdatering av Policy för tillåten användning
 Date: 2020-09-30T14:05:32
 Modified: 2020-09-30T14:52:52
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Punkt tre i Sunets policy för tillåten användning har nu uppdaterats efter ett styrelsebeslut[.](/wp-content/uploads/2015/04/2015-09-08-Protokoll.pdf)
 

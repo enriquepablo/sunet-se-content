@@ -1,3 +1,4 @@
+---
 Title: Övriga nättjänster
 Subtitle: Nättjänster som ingår i Sunet-anslutningen
 Date: 2019-09-05T16:38:45
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet har ett antal kostnadsfria bastjänster – som i de flesta fall är tillgängliga för alla, inte bara Sunet-kunder. Inga avtal krävs för att använda dessa tjänster.
 

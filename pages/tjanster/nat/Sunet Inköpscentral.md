@@ -1,3 +1,4 @@
+---
 Title: Sunet Inköpscentral
 Subtitle: Samordning av inköp av tjänster och produkter
 Date: 2018-12-05T11:19:34
@@ -9,6 +10,7 @@ Category: Nät
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet Inköpscentral startades från början för att underlätta för kunder att välja Sunet som leverantör av verksamhetskritiska tjänster som Sunet E-möte (Zoom) och Sunet LMS (Canvas). Idag är det enbart hårdvara kopplat till Sunets Campusnät (CNaaS) som finns inom inköpscentralen. På sikt kan det tillkomma fler områden där gemensamma avtal inom IT-området efterfrågas av kunderna.
 

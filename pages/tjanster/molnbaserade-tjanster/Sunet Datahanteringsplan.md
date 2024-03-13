@@ -1,3 +1,4 @@
+---
 Title: Sunet Datahanteringsplan
 Subtitle: Ett verktyg för att skapa och underhålla datahanteringsplaner
 Date: 2020-10-27T14:10:07
@@ -9,6 +10,7 @@ Category: Molnbaserade tjänster
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Tjänsten låter forskare skapa och underhålla datahanteringsplaner som idag ofta är ett krav från forskningsfinansiärer.
 

@@ -1,3 +1,4 @@
+---
 Title: Säkerhetscenter
 Subtitle: Skydda nätverksanslutna enheter och deras infrastruktur både proaktivt och reaktivt
 Date: 2020-10-06T16:20:05
@@ -9,6 +10,7 @@ Category: Säkerhet
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunets säkerhetscenter erbjuder gemensamma verktyg och deltjänster för att skydda nätverksanslutna enheter och deras infrastruktur såväl proaktivt som reaktivt. Tjänsten fungerar som ett kompetensstöd för it och informationssäkerhet.
 

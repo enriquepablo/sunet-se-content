@@ -1,3 +1,4 @@
+---
 Title: Digital tentamen [Inspera]
 Subtitle: Digital examination från start till slut
 Date: 2021-01-13T13:48:51
@@ -9,6 +10,7 @@ Category: Samarbete
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Med Sunets tjänst Digital tentamen hanterar lärosätet hela processen för examination digitalt.
 

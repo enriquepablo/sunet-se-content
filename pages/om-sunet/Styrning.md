@@ -1,3 +1,4 @@
+---
 Title: Styrning
 Date: 2019-10-05T07:26:07
 Modified: 2024-01-10T11:05:17
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Sunet är en del av Vetenskapsrådet och är sedan 1 december 2018 en avdelning på myndigheten – “*Avdelningen för Sunet och anknutna tjänster*“. Sunet styrs av en kommitté med följande medlemmar:
 

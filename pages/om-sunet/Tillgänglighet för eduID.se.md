@@ -1,3 +1,4 @@
+---
 Title: Tillgänglighet för eduID.se
 Date: 2023-09-08T15:59:22
 Modified: 2023-10-12T11:44:04
@@ -6,6 +7,7 @@ Status: published
 Authors: 
 Lang: sv
 Translation: false
+---
 
 Vetenskapsrådet står bakom den här webbplatsen. Vi vill att så många som möjligt ska kunna använda den. Det här dokumentet beskriver hur eduid.se uppfyller lagen om tillgänglighet till digital offentlig service, eventuella kända tillgänglighetsproblem och hur du kan rapportera brister till oss så att vi kan åtgärda dem.
 
