@@ -30,7 +30,6 @@ SUNET verkar för att nätanvändningen skall vara så öppen som möjligt.
 En till SUNET ansluten organisation kan utfärda egna regler för sina studerande och anställda som går längre än SUNET:s regler vad gäller viss användning. SUNET:s regler gäller alla SUNET-användare och får inte upphävas av en ansluten organisation, men en ansluten organisation kan för sina egna användare ha ytterligare regler.
 
 > **Uppdaterad policy**  
-> 
 > Punkt tre i Sunets policy för tillåten användning uppdaterades efter styrelsebeslut den 8 sept 2015. [Läs mer här](/om-sunet/uppdatering-av-policy-for-tillaten-anvandning/).
 > 
 > Tidigare revision skedde efter beslut av Sunets styrelse den 12 september 2012.
