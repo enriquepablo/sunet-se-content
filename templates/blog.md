@@ -1,10 +1,10 @@
 ---
 Title: {{title}}
-TabTitle: 
 Date: {{date}}
 Modified: {{date}}
-Slug: 
+Slug: om-sunet/aktuellt/blogg/
 Status: draft
+Category: blogg
 Authors: 
 Lang: sv
 Translation: false

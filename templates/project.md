@@ -1,10 +1,12 @@
 ---
 Title: {{title}}
-TabTitle: 
+Subtitle: 
 Date: {{date}}
 Modified: {{date}}
-Slug: 
+Slug: projekt/
 Status: draft
+Contact: 
+Category: 
 Authors: 
 Lang: sv
 Translation: false

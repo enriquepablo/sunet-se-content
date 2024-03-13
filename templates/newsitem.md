@@ -1,10 +1,10 @@
 ---
 Title: {{title}}
-TabTitle: 
 Date: {{date}}
 Modified: {{date}}
-Slug: 
+Slug: om-sunet/aktuellt/nyheter/
 Status: draft
+Category: nyheter
 Authors: 
 Lang: sv
 Translation: false
