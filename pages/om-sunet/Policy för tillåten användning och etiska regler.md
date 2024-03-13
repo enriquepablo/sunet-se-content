@@ -11,13 +11,10 @@ Translation: false
 
 Denna policy för tillåten användning/etiska regler är fastställd av Sunets styrelse den 25 maj 2010.
 
-
 Tillåten användning
 -------------------
 
-
 SUNET verkar för att nätanvändningen skall vara så öppen som möjligt.
-
 
 ### Följande regler gäller för tillåten användning:
 
@@ -33,7 +30,6 @@ SUNET verkar för att nätanvändningen skall vara så öppen som möjligt.
 
 En till SUNET ansluten organisation kan utfärda egna regler för sina studerande och anställda som går längre än SUNET:s regler vad gäller viss användning. SUNET:s regler gäller alla SUNET-användare och får inte upphävas av en ansluten organisation, men en ansluten organisation kan för sina egna användare ha ytterligare regler.
 
-
 > **Uppdaterad policy**  
 > 
 > Punkt tre i Sunets policy för tillåten användning uppdaterades efter styrelsebeslut den 8 sept 2015. [Läs mer här](/om-sunet/uppdatering-av-policy-for-tillaten-anvandning/).
@@ -41,16 +37,12 @@ En till SUNET ansluten organisation kan utfärda egna regler för sina studerand
 > Tidigare revision skedde efter beslut av Sunets styrelse den 12 september 2012.
 > 
 
-
 Etiska regler
 -------------
 
-
 Det är en i den akademiska världen allmänt accepterad princip att bevara nätverken så öppna som möjligt. För att det skall vara möjligt är det oundvikligt att vissa etiska krav ställs på de individer som använder nätverken och på deras aktiviteter. Dessa etiska krav skiljer sig inte särskilt mycket från övriga krav som ställs på medborgarna i ett modernt samhälle.
 
-
 ### SUNET fördömer som oetiskt när någon:
-
 
 1. försöker få tillgång till nätverksresurser eller andra IT-resurser utan att ha rätt till det
 
@@ -63,5 +55,4 @@ Det är en i den akademiska världen allmänt accepterad princip att bevara nät
 5. gör intrång i andras privatliv
 
 6. försöker förolämpa eller förnedra andra
-
 

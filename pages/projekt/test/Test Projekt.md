@@ -12,7 +12,6 @@ Lang: sv
 Translation: false
 ---
 
-
 `passmenu` is a [dmenu][]-based interface to [pass][], the standard Unix
 password manager. This design allows you to quickly copy a password to the
 clipboard without having to open up a terminal window if you don't already have

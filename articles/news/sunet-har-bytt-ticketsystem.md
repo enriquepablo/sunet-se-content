@@ -12,7 +12,5 @@ Translation: false
 
 Från den 1 december har Sunet ett nytt ticketsystem som bland annat innebär att vi i fortsättning kommer att göra riktade utskick till varje organisation. Det finns också två sidor för driftstatus på sunet.se, en för nät och en för tjänster.
 
-
 För mer information kontakta noc@sunet.se.
-
 

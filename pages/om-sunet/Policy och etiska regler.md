@@ -11,8 +11,6 @@ Translation: false
 
 För SUNET-anslutna organisationer finns det utarbetade riktlinjer att förhålla sig till Sunets policydokument. Alla som är anslutna till SUNET bör ha kännedom om dessa policydokument. Alla policydokument inom SUNET är beslutade av Sunets styrelse.
 
-
-
 > 
 > * [Policy för IT-säkerhet](/om-sunet/it-sakerhets-policy/)
 > * [Policy för samtrafik](/om-sunet/policy-for-samtrafik/)
@@ -21,7 +19,5 @@ För SUNET-anslutna organisationer finns det utarbetade riktlinjer att förhåll
 > 
 > 
 
-
 För frågor kring policys och regler, kontakta Börje Josefsson.
-
 

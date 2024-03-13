@@ -15,8 +15,6 @@ Translation: false
 
 Vi har vår nästa Python-träff den 15 februari! 
 
-
-
 > 
 > **Datum:** 15 februari 2024, 17:30.
 > 
@@ -28,5 +26,4 @@ Vi har vår nästa Python-träff den 15 februari! 
 > 
 > 
 > 
-
 

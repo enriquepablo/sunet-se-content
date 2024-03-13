@@ -11,4 +11,3 @@ Translation: false
 
 Du får inom kort ett bekräftelsemail till den e-postadress du uppgett. Klicka på länken i mailet för att bekräfta att du vill prenumerera på Sunets nyhetsbrev.  Om du inte fått något mejl – titta i skräppostlådan.
 
-

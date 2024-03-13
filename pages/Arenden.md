@@ -15,4 +15,3 @@ To report a fault please contact SUNET NOC via e-mail or telephone. For urgent m
 E-mail: [noc@sunet.se](mailto:noc@sunet.se)  
 Telephone: +46(0)8-207860
 
-

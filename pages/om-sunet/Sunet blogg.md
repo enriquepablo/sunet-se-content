@@ -11,26 +11,20 @@ Translation: false
 
 Under ett antal år publicerade vi flera blogginlägg om bland annat Sunet och vår verksamhet, internets historia samt andra intressanta ämnen, för att sprida information och kunskap. Nedan finns dessa blogginlägg samlade. Trevlig läsning!
 
-
 SunetC
 ------
 
-
 * [SunetC 200G](/wp-content/uploads/2021/05/SunetC200Gblogg-2-1.pdf)
-
 
 Praktikfall
 -----------
-
 
 * [Ett radioteleskop kommer sällan ensamt – 2018-04-18.pdf](/wp-content/uploads/2020/11/Praktikfall-Ett-radioteleskop-kommer-sällan-ensamt-SUNET-2018-04-18.pdf)
 * [Det svenska tidslagret och varför du behöver det – 2018-02-08.pdf](/wp-content/uploads/2020/11/Praktikfall-Det-svenska-tidslagret-och-varför-du-behöver-det-SUNET-2018-02-08.pdf)
 * [Trådlösa nät – AS på SU – 2017-11-29.pdf](/wp-content/uploads/2020/11/Praktikfall-Trådlösa-nät-–-AS-på-SU-SUNET-2017-11-29.pdf)
 
-
 Teknikbloggen av Fredrik “Hugge” Korsbäck
 -----------------------------------------
-
 
 * [New toys – 200G DWDM in Juniper QFX10000 – 2017-08-16.pdf](/wp-content/uploads/2021/02/New-toys-–-200G-DWDM-in-Juniper-QFX10000-–-2017-08-16.pdf)
 * [All i want for christmas is … Large BGP Communities – 2016-12-07.pdf](/wp-content/uploads/2021/02/All-i-want-for-christmas-is-…-Large-BGP-Communities-–-2016-12-07.pdf)
@@ -49,10 +43,8 @@ Teknikbloggen av Fredrik “Hugge” Korsbäck
 * [First test on real fibre! – 2015-11-17.pdf](/wp-content/uploads/2021/02/First-test-on-real-fibre-–-2015-11-17.pdf)
 * [Tales from the crypt, a first look into the new SUNET – 2015-10-29.pdf](/wp-content/uploads/2021/02/Tales-from-the-crypt-a-first-look-into-the-new-SUNET-–-2015-10-29.pdf)
 
-
 CTO-bloggen av Leif Johansson och Per Nihlén
 --------------------------------------------
-
 
 * [eduroam, gästnät och identiteter – 2017-09-26.pdf](/wp-content/uploads/2021/02/eduroam-gästnät-och-identiteter-–-2017-09-26.pdf)
 * [e-signering – 2016-09-25](/wp-content/uploads/2021/02/e-signering-–-2016-09-25.pdf) [GÉANT upphandlar molntjänster – 2016-11-08.pdf](/wp-content/uploads/2021/02/GÉANT-upphandlar-molntjänster-–-2016-11-08.pdf)
@@ -61,13 +53,10 @@ CTO-bloggen av Leif Johansson och Per Nihlén
 * [The Future of Adobe Connect – 2016-05-10.pdf](/wp-content/uploads/2021/02/The-Future-of-Adobe-Connect-–-2016-05-10.pdf)
 * [NREN vs Internet – 2016-05-02.pdf](/wp-content/uploads/2021/02/NREN-vs-Internet-–-2016-05-02.pdf)
 
-
 Bloggen Fiberfeber av Jörgen Städje
 -----------------------------------
 
-
 **Grundläggande om:**
-
 
 * [Distribuerad förstärkning – 2017-01-15.pdf](/wp-content/uploads/2020/11/Grundläggande-om-distribuerad-förstärkning-SUNET-2017-01-15.pdf)
 * [Spektrumanalysatorn – 2016-02-17.pdf](/wp-content/uploads/2020/11/Grundläggande-om-spektrumanalysatorn-SUNET-2016-02-17.pdf)
@@ -84,9 +73,7 @@ Bloggen Fiberfeber av Jörgen Städje
 * [Router – 2015-11-10.pdf](/wp-content/uploads/2020/11/Grundläggande-om-router-SUNET-2015-11-10.pdf)
 * [Switch – 2015-11-10.pdf](/wp-content/uploads/2020/11/Grundläggande-om-switch-SUNET-2015-11-10.pdf)
 
-
 **We have liftoff:**
-
 
 * [We have liftoff! Del 1 – 2016-12-16.pdf](/wp-content/uploads/2020/11/We-have-liftoff-Del-1-av-2-SUNET-2016-12-16.pdf)
 * [We have liftoff! Del 2 – 2017-01-09.pdf](/wp-content/uploads/2020/11/We-have-liftoff-Del-2-av-2-SUNET-2017-01-09.pdf)
@@ -94,18 +81,13 @@ Bloggen Fiberfeber av Jörgen Städje
 * [We have liftoff! Del 4 – 2017-02-22.pdf](/wp-content/uploads/2020/11/We-have-liftoff-Del-4-av-2-SUNET-2017-02-22.pdf)
 * [We have liftoff! Del 5 – 2017-05-03.pdf](/wp-content/uploads/2020/11/We-have-liftoff-Del-5-av-2-SUNET-2017-05-03.pdf)
 
-
 **Övriga blogginlägg:**
-
 
 2018
 
-
 * [DNS och DNSSEC utan facksnack – 2018-01-30.pdf](/wp-content/uploads/2020/11/DNS-och-DNSSEC-utan-facksnack-SUNET-2018-01-30.pdf)
 
-
 2017
-
 
 * [Så arbetar NOC – 2017-11-13.pdf](/wp-content/uploads/2020/11/Så-arbetar-NOC-SUNET-2017-11-13.pdf)
 * [SUNET i Hongkong – 2017-09-20.pdf](/wp-content/uploads/2020/11/SUNET-i-Hongkong-SUNET-2017-09-20.pdf)
@@ -115,9 +97,7 @@ Bloggen Fiberfeber av Jörgen Städje
 * [SNIC-snack – 2017-06-02.pdf](/wp-content/uploads/2020/11/SNIC-snack-SUNET-2017-06-02.pdf)
 * [Maria Häll: We are at the Forefront! – 2017-04-13.pdf](/wp-content/uploads/2020/11/Maria-Häll-We-are-at-the-Forefront-SUNET-2017-04-13.pdf)
 
-
 2016
-
 
 * [Long Read: Cleanliness is a Virtue – 2016-09-20.pdf](/wp-content/uploads/2020/11/Long-Read-–-Cleanliness-is-a-Virtue-SUNET-2016-09-20.pdf)
 * [Långläsning: Följa fiber – från Tulegatan till Stockholms universitet – 2016-08-26.pdf](/wp-content/uploads/2020/11/Långläsning-Följa-fiber-–-från-Tulegatan-till-Stockholms-universitet-SUNET-2016-08-26.pdf)
@@ -126,9 +106,7 @@ Bloggen Fiberfeber av Jörgen Städje
 * [Första dellänken i Nya SUNET är igång – 2016-02-19.pdf](/wp-content/uploads/2020/11/Första-dellänken-i-Nya-SUNET-är-igång-SUNET-2016-02-19.pdf)
 * [CERN – krossen som slår sönder materiens minsta byggstenar – 2016-01-12.pdf](/wp-content/uploads/2020/11/CERN-–-krossen-som-slår-sönder-materiens-minsta-byggstenar-SUNET-2016-01-12.pdf)
 
-
 2015
-
 
 * [Fiberkontakter – en hel massa standarder – 2015-12-04.pdf](/wp-content/uploads/2020/11/Fiberkontakter-–-en-hel-massa-standarder-SUNET-2015-12-04.pdf)
 * [I mörkret är alla katter infraröda – 2015-11-04.pdf](/wp-content/uploads/2020/11/I-mörkret-är-alla-katter-infraröda-SUNET-2015-11-04.pdf)
@@ -157,10 +135,7 @@ Bloggen Fiberfeber av Jörgen Städje
 * [Långartikel: Så designar man ett fiberoptiskt nät – 2015-06-11.pdf](/wp-content/uploads/2020/11/Långartikel-Så-designar-man-ett-fiberoptiskt-nät-SUNET-2015-06-11.pdf)
 * [Långartikel: Vad som har varit och vad som komma skall – 2015-05-19.pdf](/wp-content/uploads/2020/11/Långartikel-Vad-som-har-varit-och-vad-som-komma-skall-SUNET-2015-05-19.pdf)
 
-
 2006
 
-
 * [Teknisk djupdykning – den mystiska routerkraschen – 2006-06-11.pdf](/wp-content/uploads/2020/11/Teknisk-djupdykning-den-mystiska-routerkraschen-SUNET-2006-06-11.pdf)
-
 

@@ -11,13 +11,11 @@ Translation: false
 
 Organisationer anslutna till Sunet kan delas in i fem grupper:
 
-
 * [Universitet och högskolor](#universitet-och-hogskolor)
 * [Myndigheter](#myndigheter)
 * [Museer](#museer)
 * [Forskningsinfrastrukturer](#forskningsinfrastrukturer)
 * [Övriga anslutna organisationer](#ovriga-anslutna-organisationer)
-
 
 ## <a name="universitet-och-hogskolor"></a>Universitet och högskolor
 
@@ -62,9 +60,7 @@ Organisationer anslutna till Sunet kan delas in i fem grupper:
 [Uppsala universitet](http://www.uu.se/)  
 [Örebro universitet](https://www.oru.se/)
 
-
 ## <a name="myndigheter"></a>Myndigheter
-
 
 [Centrala etikprövningsnämnden](http://www.epn.se/centrala-etikproevningsnaemnden/om-naemnden)  
 [Institutet för rymdfysik](http://www.irf.se/)  
@@ -83,9 +79,7 @@ Organisationer anslutna till Sunet kan delas in i fem grupper:
 [Vetenskapsrådet](http://www.vr.se)  
 [Vinnova](https://www.vinnova.se/)
 
-
 ## <a name="museer"></a>Museer
-
 
 [Statens centrum för arkitektur och design](http://www.arkdes.se)  
 [Armémuseum](http://www.sfhm.se/verksamhet/armemuseum/)   
@@ -102,17 +96,13 @@ Organisationer anslutna till Sunet kan delas in i fem grupper:
 [Statens museer för världskultur](http://www.smvk.se/)  
 [Tekniska museet](http://www.tekniskamuseet.se/)
 
-
 ## <a name="forskningsinfrastrukturer"></a>Forskningsinfrastrukturer
-
 
 [European Spallation Source](https://europeanspallationsource.se/)  
 [Onsala Rymdobservatorium](http://www.chalmers.se/sv/forskningsinfrastruktur/oso/)  
 [Swedish Space Corporation](http://www.sscspace.com/)
 
-
 ## <a name="ovriga-anslutna-organisationer"></a>Övriga anslutna organisationer
-
 
 [Chalmers studentbostäder](http://www.chalmersstudentbostader.se/ "Chalmers studenthem (länk till annan webbplats)")  
 [Delegationen mot segregation](http://www.delmos.se)  
@@ -131,5 +121,4 @@ Organisationer anslutna till Sunet kan delas in i fem grupper:
 [Studentnätet vid högskolan i Skövde](http://www.studentnatet.se/ "Studentnätet Skövde högskola (länk till annan webbplats)")  
 [Svenska Akademien](http://www.svenskaakademien.se)  
 [World Maritime University](http://www.wmu.se/)
-
 

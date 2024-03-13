@@ -11,25 +11,18 @@ Translation: false
 
 Här hittar du kontaktuppgifter till oss på Sunet.
 
-
 Support
 -------
 
-
 Information om support finns på [Support för Sunets tjänster](/kontakt/support-for-sunets-tjanster/).
-
 
 Pressfrågor
 -----------
 
-
 Presstjänst kontorstid vardagar:
-
 
 * Telefon: 08-546 44 120
 * E-post: [press@vr.se](mailto:press@vr.se)
-
-
 
 > 
 > Sunet
@@ -58,5 +51,4 @@ Presstjänst kontorstid vardagar:
 > Telefonnummer till Sunet: 090-205 91 00
 > 
 > 
-
 
