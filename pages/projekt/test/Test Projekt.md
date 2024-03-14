@@ -21,5 +21,3 @@ instead of copied to the clipboard.
 On wayland [dmenu-wl][] is used to replace dmenu and [ydotool][] to replace xdotool.
 Note that the latter requires access to the [uinput][] device, so you'll probably
 need to add an extra udev rule or similar to give certain non-root users permission.
-
-huuuuuuuuuuu
