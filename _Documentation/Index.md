@@ -7,7 +7,7 @@ Authors:
 Lang: en
 Translation: false
 ---
-# End user's documentation
+# Editor's documentation
 
 Documentation for the editors of the sunet.se site.
 
@@ -15,4 +15,5 @@ Documentation for the editors of the sunet.se site.
 - [Navigation Metadata](_Documentation/Navigation%20Metadata.md): How the metadata that drives the construction of the navigational elements of the site is structured.
 - [Content Metadata](_Documentation/Content%20Metadata.md): How to characterize the different types of content items through their metadata.
 - [Editing content](_Documentation/Editing%20content.md): An introduction to the UI to edit the markdown content that will compose the site.
-- Publishing content: How to publish changes to staging, how to undo a publication, how to see and discard changes.
+- [Publishing Content](_Documentation/Publishing%20Content.md): How to publish changes to staging, how to undo a publication, how to see and discard changes.
+- [Troubleshooting](_Documentation/Troubleshooting.md): Here we will consign problems (and their fixes) as they appear.

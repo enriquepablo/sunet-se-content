@@ -77,7 +77,3 @@ There are basically 3 ways to insert an image in a page.
 ## Attachments
 
 To add attachments such as PDFs, first we place them somewhere under `wp-content/uploads`, using your operative system's facilities, and then in a page add a normal internal link to it.
-
-## Trouble shooting
-
-Here we will consign problems (and their fixes) as they appear.
