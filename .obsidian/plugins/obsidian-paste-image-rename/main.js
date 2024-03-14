@@ -151,7 +151,7 @@ var path = {
     return fullpath.slice(positions[positions.length - 1] + 1);
   }
 };
-var filenameNotAllowedChars = /[^\p{L}0-9~`!@$&*()\-_=+{};'",<.>?\/ ]/ug;
+var filenameNotAllowedChars = /[^\p{L}0-9~`!@$&*()\-_=+{};'",<.>? ]/ug;
 var sanitizer = {
   filename(s) {
     return s.replace(filenameNotAllowedChars, "").trim();
@@ -546,7 +546,6 @@ var PasteImageRenamePlugin = class extends import_obsidian2.Plugin {
         return;
       }
       let newLinkText = this.app.fileManager.generateMarkdownLink(file, sourcePath);
-      newLinkText = newLinkText.replace("](", "](/" + file.parent.path + "/");
       console.log(`file.path: ${file.path}, sourcePath: ${sourcePath}, link: ${newLinkText}`);
       debugLog("replace text", linkText, newLinkText);
       const editor = this.getActiveEditor();

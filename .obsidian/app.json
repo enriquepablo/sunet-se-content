@@ -1,6 +1,6 @@
 {
   "showInlineTitle": false,
-  "attachmentFolderPath": "wp-content/uploads",
+  "attachmentFolderPath": "wp-content/uploads/images",
   "useMarkdownLinks": true,
   "alwaysUpdateLinks": true,
   "newLinkFormat": "absolute",
