@@ -74,6 +74,8 @@ There are basically 3 ways to insert an image in a page.
 - **Drag and drop**: You can drag an image from your system's file explore and drop it in a markdown page. In this case the image will be placed directly at `wp-content/uploads/images`. You will need to manually add the alt text for the image. Also, at the moment the link is formed without the leading slash, so that has to be fixed: `![](wp-content/uploads/my-image.png`) -> `![some alt text](/wp-content/uploads/my-image.png`)
 - **Pasting it**: You can paste an image from your clipboard. When you paste an image, obsidian will ask you for a name for it, and will place it at `wp-content/uploads/images`. The same caveats apply as when drag and dropping: No alt text, no leading slash in the link.
 
+The main problem to fix with non-manual methods is the inability to put different files in different directories.
+
 ## Attachments
 
 To add attachments such as PDFs, first we place them somewhere under `wp-content/uploads`, using your operative system's facilities, and then in a page add a normal internal link to it.
