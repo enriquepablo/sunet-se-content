@@ -20,3 +20,5 @@ In addition, there are a few facilities to save the changes to github and publis
     - The leftwards pointing arrow will discard all non-published changes to the current file.
     - The encircled leftwards pointing arrow will discard all non-published changes to all the files.
     - The downwards and leftwards pointing arrow will remove the last published changes from all places: from the local filesystem, from github, and from staging. So it will allow us to undo the last pubication.
+
+With this setting, it is not convenient that several people work and push and remove from staging at the same time without coordination. If we need that kind of concurrency we can think of a another solution - a local pelican server.
