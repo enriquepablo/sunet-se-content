@@ -12,16 +12,16 @@ Translation: false
 
 Here we look at the different metadata items that characterize each content item.
 
-## Generic metadata
+## Common metadata
 
 For all types of content.
 
 - **Title**: The title for the page. This will appear as the title within the web page, and also as the title in the tabs and in the browser bar.
-- **Date**: Creation date. Should be set when applying a template.
-- **Modified**: Modification date. It should not need to be edited by hand, there is a plugin that updates it automatically.
+- **Date**: Creation timestamp. Should be set when applying a template.
+- **Modified**: Modification timestamp. It should not need to be edited by hand, there is a tool in the toolbar to insert timestamps.
 - **Slug**: This is the path under which the content will be shown in the site, without the leading slash. So for example if we want to publish a page at `https://sunet.se/om-sunet/some-page`, the Slug should be `om-sunet/some-page`. Slugs can only be composed of lower case letters, numbers, dashes and slashes.
 - **Status**: One of `draft`, `published`, or `hidden`.
-- **Authors**: the authors of the page. Not much used at the moment.
+- **Authors**: the authors of the page. Not much used at the moment (the authors in the wordpress content did not exist in the people feed).
 - **Lang**: The language of the page.
 - **Translation**: Whether the page is the translation of another page.
 
@@ -33,15 +33,17 @@ For news items, blog posts, and events.
 
 In addition, events may have:
 
-- **DisplayDate**: The date(s) of the event, to be shown in the event page.
-- **StartDate**: The date the event starts.
-- **EndDate**: The date the event ends.
+- **DisplayDate**: The date(s) of the event, to be shown in the event page, as free text.
+- **StartDate**: The date the event starts with format YYYY-MM-DD.
+- **EndDate**: The date the event ends with format YYYY-MM-DD.
+
+ There is a tool in the toolbar to insert dates in this format.
 
 ## Page metadata
 
 Metadata for pages.
 
-- **TabTitle**: If you need the title in the web page and the title for the tabs and browser to be dfferent, set here the title to appear on the tabs and the browser.
+- **TabTitle**: If you need the title in the web page and the title for the tabs and browser to be dfferent, set here the title to appear on the tabs and the browser. Optional.
 
 Metadata for services and projects.
 
