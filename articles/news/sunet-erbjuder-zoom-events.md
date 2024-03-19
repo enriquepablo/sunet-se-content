@@ -2,7 +2,7 @@
 Title: Sunet erbjuder Zoom Events
 Date: 2022-12-15T10:43:23
 Modified: 2022-12-15T11:18:07
-Type: news
+Type: nyheter
 Slug: om-sunet/aktuellt/nyheter/sunet-erbjuder-zoom-events
 Status: published
 Authors: 

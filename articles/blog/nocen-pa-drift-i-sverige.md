@@ -2,7 +2,7 @@
 Title: NOCen på drift i Sverige
 Date: 2022-11-16T13:05:19
 Modified: 2023-02-10T12:33:58
-Type: blog
+Type: blogg
 Slug: om-sunet/aktuellt/blogg/nocen-pa-drift-i-sverige
 Status: published
 Authors: 

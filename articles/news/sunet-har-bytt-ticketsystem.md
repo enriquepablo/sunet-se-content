@@ -2,7 +2,7 @@
 Title: Sunet har bytt ticketsystem
 Date: 2022-12-09T10:56:23
 Modified: 2022-12-09T10:56:23
-Type: news
+Type: nyheter
 Slug: om-sunet/aktuellt/nyheter/sunet-har-bytt-ticketsystem
 Status: published
 Authors: 

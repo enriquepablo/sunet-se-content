@@ -2,7 +2,7 @@
 Title: Sunetdagarna våren 2024
 Date: 2024-01-08T09:16:24
 Modified: 2024-01-24T11:14:55
-Type: event
+Type: evenemang
 DisplayDate: 23–25 april 2024
 StartDate: 2024-04-23
 EndDate: 2024-04-25

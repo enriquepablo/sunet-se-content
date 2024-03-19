@@ -2,7 +2,7 @@
 Title: Sunet lanserar nyhetssida
 Date: 2022-11-17T13:33:18
 Modified: 2022-11-18T09:55:14
-Type: news
+Type: nyheter
 Slug: om-sunet/aktuellt/nyheter/sunet-lanserar-nyhetssida
 Status: published
 Authors: 

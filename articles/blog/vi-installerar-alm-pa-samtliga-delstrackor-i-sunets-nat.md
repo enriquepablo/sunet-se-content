@@ -2,7 +2,7 @@
 Title: Vi installerar ALM på samtliga delsträckor i Sunets nät
 Date: 2023-12-12T14:50:43
 Modified: 2023-12-13T12:05:38
-Type: blog
+Type: blogg
 Slug: om-sunet/aktuellt/blogg/vi-installerar-alm-pa-samtliga-delstrackor-i-sunets-nat
 Status: published
 Authors: 

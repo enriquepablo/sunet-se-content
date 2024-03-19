@@ -2,7 +2,7 @@
 Title: Vetenskapsrådet/Sunet har blivit tilldelade EU-medel för projektet Polar Connect
 Date: 2023-12-22T10:38:07
 Modified: 2023-12-22T10:58:00
-Type: news
+Type: nyheter
 Slug: om-sunet/aktuellt/nyheter/vetenskapsradet-sunet-har-blivit-tilldelade-eu-medel-for-projektet-polar-connect
 Status: published
 Authors: 
