@@ -2,6 +2,7 @@
 Title: Sunets nät
 Date: 2019-10-05T07:25:49
 Modified: 2020-10-06T14:05:58
+Type: page
 Slug: om-sunet/sunets-nat
 Status: published
 Authors: 

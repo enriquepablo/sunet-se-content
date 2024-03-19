@@ -2,6 +2,7 @@
 Title: Medarbetare
 Date: 2019-10-04T15:34:06
 Modified: 2022-02-28T13:13:52
+Type: page
 Slug: kontakt/medarbetare
 Status: published
 Authors: 

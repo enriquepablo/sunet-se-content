@@ -2,6 +2,7 @@
 Title: Jobba hos oss
 Date: 2020-11-17T17:07:09
 Modified: 2023-12-18T10:37:15
+Type: page
 Slug: om-sunet/jobba-hos-oss
 Status: published
 Authors: 

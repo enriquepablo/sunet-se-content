@@ -3,6 +3,7 @@ Title: eduroam
 Subtitle: Trådlöst internet – gratis, enkelt och säkert 
 Date: 2019-09-05T14:20:17
 Modified: 2020-09-30T10:16:33
+Type: service
 Slug: services/nat/eduroam
 Status: published
 Contact: anders-nilsson

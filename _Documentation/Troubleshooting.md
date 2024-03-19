@@ -2,6 +2,7 @@
 Title: Troubleshooting
 Date: 2024-03-12
 Modified: 2024-03-12
+Type: docs
 Slug: documentation/troubleshooting
 Authors: 
 Lang: en

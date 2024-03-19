@@ -1,6 +1,7 @@
 Title: David Heed
 Date: 2020-04-21T12:46:09
 Modified: 2020-05-11T14:37:44
+Type: person
 Slug: david-heed-2
 Status: published
 Lang: sv

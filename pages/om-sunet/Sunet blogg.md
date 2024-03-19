@@ -2,6 +2,7 @@
 Title: Sunet blogg
 Date: 2020-11-17T11:55:38
 Modified: 2021-05-24T15:44:18
+Type: page
 Slug: om-sunet/sunet-blogg
 Status: published
 Authors: 

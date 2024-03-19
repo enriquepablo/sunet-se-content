@@ -2,6 +2,7 @@
 Title: Om Sunet
 Date: 2019-10-05T07:17:20
 Modified: 2023-07-10T13:23:42
+Type: page
 Slug: om-sunet
 Status: published
 Authors: 

@@ -2,6 +2,7 @@
 Title: Information om behandling av personuppgifter
 Date: 2020-04-21T17:21:16
 Modified: 2020-10-02T10:45:01
+Type: page
 Slug: om-sunet/information-om-behandling-av-personuppgifter
 Status: published
 Authors: 

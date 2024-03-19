@@ -2,6 +2,7 @@
 Title: Policy och etiska regler
 Date: 2020-05-13T19:22:13
 Modified: 2020-09-30T14:53:24
+Type: page
 Slug: om-sunet/policy-etiska-regler
 Status: published
 Authors: 

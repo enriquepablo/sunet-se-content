@@ -1,6 +1,7 @@
 Title: Börje Josefsson
 Date: 2019-08-22T13:40:03
 Modified: 2020-09-30T12:39:37
+Type: person
 Slug: borje-josefsson
 Status: published
 Lang: sv

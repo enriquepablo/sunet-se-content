@@ -2,6 +2,7 @@
 Title: Om kakor på webbplatsen
 Date: 2020-09-30T12:37:55
 Modified: 2020-10-02T10:57:35
+Type: page
 Slug: om-sunet/om-kakor-pa-webbplatsen
 Status: published
 Authors: 

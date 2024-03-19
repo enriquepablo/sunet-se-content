@@ -3,6 +3,7 @@ Title: ORCID
 Subtitle: Permanent digital identifikation oberoende av organisatorisk hemvist.
 Date: 2019-08-20T13:06:21
 Modified: 2023-11-22T11:00:21
+Type: service
 Slug: services/identifiering/orcid
 Status: published
 Contact: pal-axelsson-orcid

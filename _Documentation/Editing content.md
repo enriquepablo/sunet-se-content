@@ -2,6 +2,7 @@
 Title: Editing content
 Created: 2024-03-12
 Modified: 2024-03-12
+Type: docs
 Slug: documentation/editing-content
 Authors: 
 Lang: en

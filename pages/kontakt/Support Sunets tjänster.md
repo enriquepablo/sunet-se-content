@@ -2,6 +2,7 @@
 Title: Support Sunets tjänster
 Date: 2024-02-05T15:22:49
 Modified: 2024-02-05T15:30:23
+Type: page
 Slug: kontakt/support-for-sunets-tjanster
 Status: published
 Authors: 

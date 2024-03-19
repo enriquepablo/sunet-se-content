@@ -3,6 +3,7 @@ Title: Digital tentamen [Inspera]
 Subtitle: Digital examination från start till slut
 Date: 2021-01-13T13:48:51
 Modified: 2022-11-11T11:02:21
+Type: service
 Slug: services/samarbete/digital-tentamen-inspera
 Status: published
 Contact: minette-henriksson

@@ -3,6 +3,7 @@ Title: Säkerhetskopiering [BaaS]
 Subtitle: Skräddarsydd säkerhetskopiering ger kontroll över innehåll och kostnader
 Date: 2019-09-05T20:36:58
 Modified: 2020-12-14T11:59:34
+Type: service
 Slug: services/molnbaserade-tjanster/backup
 Status: published
 Contact: anders-nilsson-2

@@ -3,6 +3,7 @@ Title: Lärplattform [Canvas]
 Subtitle: Skapa en virtuell kursmiljö där lärare, studenter och administratörer samarbetar
 Date: 2019-08-19T14:45:21
 Modified: 2021-10-07T13:09:16
+Type: service
 Slug: services/samarbete/larplattform
 Status: published
 Contact: minette-henriksson

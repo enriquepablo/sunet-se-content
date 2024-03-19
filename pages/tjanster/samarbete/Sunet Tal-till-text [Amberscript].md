@@ -3,6 +3,7 @@ Title: Sunet Tal-till-text [Amberscript]
 Subtitle: Transkribera ljud och undertexta videofiler
 Date: 2021-12-16T16:13:28
 Modified: 2022-02-28T13:46:13
+Type: service
 Slug: services/samarbete/tal-till-text
 Status: published
 Contact: monika-allov-andersson

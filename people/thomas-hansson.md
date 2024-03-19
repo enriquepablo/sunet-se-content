@@ -1,6 +1,7 @@
 Title: Thomas Hansson
 Date: 2019-08-31T16:56:24
 Modified: 2020-10-01T08:50:21
+Type: person
 Slug: thomas-hansson
 Status: published
 Lang: sv

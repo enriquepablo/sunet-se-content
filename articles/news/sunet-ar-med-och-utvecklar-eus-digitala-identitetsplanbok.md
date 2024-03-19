@@ -2,9 +2,9 @@
 Title: Sunet är med och utvecklar EU:s digitala identitetsplånbok
 Date: 2023-01-11T13:15:31
 Modified: 2023-03-22T11:46:06
+Type: news
 Slug: om-sunet/aktuellt/nyheter/sunet-ar-med-och-utvecklar-eus-digitala-identitetsplanbok
 Status: published
-Category: nyheter
 Authors: 
 Lang: sv
 Translation: false

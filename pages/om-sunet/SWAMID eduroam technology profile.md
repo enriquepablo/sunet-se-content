@@ -2,6 +2,7 @@
 Title: SWAMID eduroam technology profile
 Date: 2019-10-11T13:01:50
 Modified: 2019-10-11T13:59:02
+Type: page
 Slug: om-sunet/swamid-eduroam-technology-profile
 Status: published
 Authors: 

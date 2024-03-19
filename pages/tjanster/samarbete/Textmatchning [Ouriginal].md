@@ -3,6 +3,7 @@ Title: Textmatchning [Ouriginal]
 Subtitle: Upptäck och förebygg plagiering genom analys av uppladdade dokument
 Date: 2021-10-07T13:09:00
 Modified: 2021-10-08T11:51:16
+Type: service
 Slug: services/samarbete/textmatchning
 Status: published
 Contact: minette-henriksson

@@ -3,6 +3,7 @@ Title: Play [Kaltura]
 Subtitle: Dela med dig av ljud och bild
 Date: 2018-12-06T13:47:23
 Modified: 2022-02-22T15:45:54
+Type: service
 Slug: services/samarbete/play
 Status: published
 Contact: 

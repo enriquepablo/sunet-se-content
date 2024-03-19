@@ -2,6 +2,7 @@
 Title: Tillgänglig, säker och skalbar e‑infrastruktur
 Date: 2018-11-26T12:35:10
 Modified: 2023-07-06T13:03:34
+Type: page
 Slug: index
 Authors: 
 Lang: sv

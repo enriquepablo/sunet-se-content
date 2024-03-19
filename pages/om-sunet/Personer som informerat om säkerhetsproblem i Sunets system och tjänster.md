@@ -2,6 +2,7 @@
 Title: Personer som informerat om säkerhetsproblem i Sunets system och tjänster
 Date: 2022-04-13T10:48:08
 Modified: 2023-01-31T11:08:20
+Type: page
 Slug: om-sunet/sakerhet-hall-of-fame
 Status: published
 Authors: 

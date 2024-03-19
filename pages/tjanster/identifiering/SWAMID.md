@@ -3,6 +3,7 @@ Title: SWAMID
 Subtitle: Säker inloggning till nationella och internationella tjänster för forskare, lärare och studenter
 Date: 2018-12-06T14:12:52
 Modified: 2023-12-11T13:12:13
+Type: service
 Slug: services/identifiering/swamid
 Status: published
 Contact: pal-axelsson

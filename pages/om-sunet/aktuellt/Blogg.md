@@ -2,6 +2,7 @@
 Title: Blogg
 Date: 2022-05-12T12:08:38
 Modified: 2023-03-11T13:12:34
+Type: page
 Slug: om-sunet/aktuellt/blogg
 Status: published
 Authors: 

@@ -2,6 +2,7 @@
 Title: Navigation Metadata
 Date: 2024-03-12
 Modified: 2024-03-12
+Type: docs
 Slug: documentation/navigation-metadata
 Authors: 
 Lang: en

@@ -2,6 +2,7 @@
 Title: Tack!
 Date: 2021-10-21T08:44:01
 Modified: 2022-05-20T09:18:54
+Type: page
 Slug: om-sunet/nyhetsbrev-tack
 Status: published
 Authors: 

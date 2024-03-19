@@ -3,6 +3,7 @@ Title: Sunet Drive
 Subtitle: Lagra och dela dina filer
 Date: 2021-04-20T12:30:58
 Modified: 2022-08-31T12:32:31
+Type: service
 Slug: services/molnbaserade-tjanster/sunet-drive
 Status: published
 Contact: anders-nilsson-2

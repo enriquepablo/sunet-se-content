@@ -2,6 +2,7 @@
 Title: Policy för tillåten användning och etiska regler
 Date: 2020-09-30T14:00:57
 Modified: 2023-10-02T10:26:48
+Type: page
 Slug: om-sunet/policy-for-tillaten-anvandning-och-etiska-regler
 Status: published
 Authors: 

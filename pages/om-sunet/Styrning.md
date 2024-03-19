@@ -2,6 +2,7 @@
 Title: Styrning
 Date: 2019-10-05T07:26:07
 Modified: 2024-01-10T11:05:17
+Type: page
 Slug: om-sunet/styrning
 Status: published
 Authors: 

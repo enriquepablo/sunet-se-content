@@ -2,6 +2,7 @@
 Title: Anslutna organisationer
 Date: 2019-10-05T07:24:43
 Modified: 2024-01-22T15:00:24
+Type: page
 Slug: om-sunet/anslutna-organisationer
 Status: published
 Authors: 

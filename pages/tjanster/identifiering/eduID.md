@@ -3,6 +3,7 @@ Title: eduID
 Subtitle: Bekräfta din identitet – säkert, snabbt och enkelt
 Date: 2020-05-23T18:51:58
 Modified: 2023-07-06T10:16:09
+Type: service
 Slug: services/identifiering/eduid
 Status: published
 Contact: zacharias-tornblom

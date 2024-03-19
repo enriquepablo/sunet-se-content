@@ -2,6 +2,7 @@
 Title: Om SWAMID
 Date: 2019-10-11T13:03:33
 Modified: 2020-09-30T11:00:13
+Type: page
 Slug: om-sunet/om-swamid
 Status: published
 Authors: 

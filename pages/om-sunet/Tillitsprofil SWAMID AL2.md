@@ -2,6 +2,7 @@
 Title: Tillitsprofil SWAMID AL2
 Date: 2019-10-11T14:11:38
 Modified: 2019-10-11T14:11:38
+Type: page
 Slug: om-sunet/tillitsprofil-swamid-al2
 Status: published
 Authors: 

@@ -2,6 +2,7 @@
 Title: Publishing Content
 Date: 2024-03-12
 Modified: 2024-03-12
+Type: docs
 Slug: documentation/publishing-content
 Authors: 
 Lang: en

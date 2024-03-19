@@ -3,6 +3,7 @@ Title: Campusnät [CNaaS]
 Subtitle: Nätverk som tjänst i samverkan med lärosäten
 Date: 2020-12-14T11:28:38
 Modified: 2024-01-22T15:02:05
+Type: service
 Slug: services/nat/campusnat-cnaas
 Status: published
 Contact: david-heed-2

@@ -1,6 +1,7 @@
 Title: Markus Schneider
 Date: 2020-09-29T13:57:06
 Modified: 2020-09-29T13:57:06
+Type: person
 Slug: markus-schneider
 Status: published
 Lang: sv

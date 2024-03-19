@@ -2,6 +2,7 @@
 Title: Uppdatering av Policy för tillåten användning
 Date: 2020-09-30T14:05:32
 Modified: 2020-09-30T14:52:52
+Type: page
 Slug: om-sunet/uppdatering-av-policy-for-tillaten-anvandning
 Status: published
 Authors: 

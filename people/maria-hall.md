@@ -1,6 +1,7 @@
 Title: Maria Häll
 Date: 2020-04-21T12:57:23
 Modified: 2022-02-17T10:47:15
+Type: person
 Slug: maria-hall
 Status: published
 Lang: sv

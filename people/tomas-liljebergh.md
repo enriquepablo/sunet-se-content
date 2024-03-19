@@ -1,6 +1,7 @@
 Title: Tomas Liljebergh
 Date: 2019-08-26T14:52:22
 Modified: 2020-04-02T16:15:25
+Type: person
 Slug: tomas-liljebergh
 Status: published
 Lang: sv

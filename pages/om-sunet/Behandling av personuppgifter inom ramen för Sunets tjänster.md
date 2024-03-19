@@ -2,6 +2,7 @@
 Title: Behandling av personuppgifter inom ramen för Sunets tjänster
 Date: 2021-06-30T10:15:36
 Modified: 2024-01-10T12:21:14
+Type: page
 Slug: om-sunet/behandling-av-personuppgifter-sunets-tjanster
 Status: published
 Authors: 

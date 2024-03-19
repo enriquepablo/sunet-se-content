@@ -2,6 +2,7 @@
 Title: Policy för samtrafik
 Date: 2020-09-30T13:50:07
 Modified: 2022-11-15T14:23:04
+Type: page
 Slug: om-sunet/policy-for-samtrafik
 Status: published
 Authors: 

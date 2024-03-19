@@ -3,6 +3,7 @@ Title: Säkerhetscenter
 Subtitle: Skydda nätverksanslutna enheter och deras infrastruktur både proaktivt och reaktivt
 Date: 2020-10-06T16:20:05
 Modified: 2022-04-27T15:18:51
+Type: service
 Slug: services/sakerhet/sakerhetscenter
 Status: published
 Contact: david-heed-2

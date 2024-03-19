@@ -2,6 +2,7 @@
 Title: Säkerhet i Sunet
 Date: 2022-04-13T10:32:32
 Modified: 2022-04-28T13:47:14
+Type: page
 Slug: om-sunet/sakerhet
 Status: published
 Authors: 

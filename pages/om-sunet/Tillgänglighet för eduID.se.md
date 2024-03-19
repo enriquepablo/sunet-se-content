@@ -2,6 +2,7 @@
 Title: Tillgänglighet för eduID.se
 Date: 2023-09-08T15:59:22
 Modified: 2023-10-12T11:44:04
+Type: page
 Slug: om-sunet/tillganglighet-for-eduid-se
 Status: published
 Authors: 

@@ -3,6 +3,7 @@ Title: Mailfilter
 Subtitle: Slipp spam och virus - enkel central användning av antivirusprogram och spamsortering 
 Date: 2018-12-06T14:11:17
 Modified: 2021-04-20T12:31:25
+Type: service
 Slug: services/sakerhet/mailfilter
 Status: published
 Contact: tomas-liljebergh

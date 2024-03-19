@@ -3,6 +3,7 @@ Title: Sunet Virtuellt Datacenter
 Subtitle: IT-infrastruktur i Sunets egna datacenter
 Date: 2023-11-27T14:43:41
 Modified: 2023-11-30T13:40:15
+Type: service
 Slug: services/molnbaserade-tjanster/sunet-virtuellt-datacenter
 Status: published
 Contact: anders-nilsson-2

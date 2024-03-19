@@ -1,6 +1,7 @@
 Title: Pål Axelsson | ORCID
 Date: 2020-11-03T12:17:35
 Modified: 2020-11-03T12:30:39
+Type: person
 Slug: pal-axelsson-orcid
 Status: published
 Lang: sv

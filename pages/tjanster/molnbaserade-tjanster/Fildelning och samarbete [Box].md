@@ -3,6 +3,7 @@ Title: Fildelning och samarbete [Box]
 Subtitle: Samarbeta kring, lagra och dela filer i molnet
 Date: 2019-08-31T17:02:38
 Modified: 2021-04-20T13:24:39
+Type: service
 Slug: services/molnbaserade-tjanster/box
 Status: published
 Contact: leif-johansson

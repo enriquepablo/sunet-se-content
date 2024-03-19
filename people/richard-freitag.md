@@ -1,6 +1,7 @@
 Title: Richard Freitag
 Date: 2021-04-20T12:32:41
 Modified: 2021-04-20T12:32:41
+Type: person
 Slug: richard-freitag
 Status: published
 Lang: sv

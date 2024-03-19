@@ -2,6 +2,7 @@
 Title: Tillgänglighetsredogörelse för Sunet.se
 Date: 2020-10-06T18:13:39
 Modified: 2022-06-13T12:11:25
+Type: page
 Slug: om-sunet/tillganglighetsredogorelse-for-sunet-se
 Status: published
 Authors: 

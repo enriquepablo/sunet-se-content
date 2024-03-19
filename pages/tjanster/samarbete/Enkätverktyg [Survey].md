@@ -3,6 +3,7 @@ Title: Enkätverktyg [Survey]
 Subtitle: Skapa enkäter och kursutvärderingar, följ upp arbetet i rapporter.
 Date: 2019-08-22T11:11:35
 Modified: 2021-09-30T12:46:28
+Type: service
 Slug: services/samarbete/enkatverktyg
 Status: published
 Contact: magnus-hovde

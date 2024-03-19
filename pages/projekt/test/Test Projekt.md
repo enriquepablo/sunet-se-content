@@ -3,6 +3,7 @@ Title: Test Projekt
 Subtitle: Test Projekt
 Date: 2024-03-11T14:26:25+01:00
 Modified: 2024-03-13T21:09
+Type: projekt
 Slug: projekt/test/eduid
 Status: published
 Contact: zacharias-tornblom

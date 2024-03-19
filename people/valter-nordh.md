@@ -1,6 +1,7 @@
 Title: Valter Nordh
 Date: 2019-08-29T08:54:46
 Modified: 2022-01-12T17:08:07
+Type: person
 Slug: valter-nordh
 Status: published
 Lang: sv

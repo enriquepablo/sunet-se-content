@@ -1,6 +1,7 @@
 Title: Stefan Liström
 Date: 2021-08-18T14:55:37
 Modified: 2021-08-18T14:55:37
+Type: person
 Slug: stefan-listrom
 Status: published
 Lang: sv

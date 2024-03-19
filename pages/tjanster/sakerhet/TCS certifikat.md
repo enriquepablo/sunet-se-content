@@ -3,6 +3,7 @@ Title: TCS certifikat
 Subtitle: Certifikat för servrar och användare
 Date: 2019-08-26T14:53:59
 Modified: 2023-12-14T11:01:25
+Type: service
 Slug: services/sakerhet/tcs-certifikat
 Status: published
 Contact: kent-engstrom-och-pal-axelsson

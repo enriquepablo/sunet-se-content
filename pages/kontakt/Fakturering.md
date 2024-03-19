@@ -2,6 +2,7 @@
 Title: Fakturering
 Date: 2019-10-04T15:34:37
 Modified: 2023-07-06T10:16:49
+Type: page
 Slug: kontakt/fakturering
 Status: published
 Authors: 

@@ -3,6 +3,7 @@ Title: Övriga nättjänster
 Subtitle: Nättjänster som ingår i Sunet-anslutningen
 Date: 2019-09-05T16:38:45
 Modified: 2023-07-05T14:02:36
+Type: service
 Slug: services/nat/ovriga-nattjanster
 Status: published
 Contact: borje-josefsson
