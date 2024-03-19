@@ -4,10 +4,10 @@ Subtitle: Test Projekt
 Date: 2024-03-11T14:26:25+01:00
 Modified: 2024-03-13T21:09
 Type: projekt
-Slug: projekt/test/eduid
+Slug: projekt/identifiering/eduid
 Status: published
 Contact: zacharias-tornblom
-Category: test
+Category: identifiering
 Authors: 
 Lang: sv
 Translation: false
