@@ -1,5 +1,5 @@
 ---
-Title: Projekt
+Title: Projekt av Sunet
 Date: 2024-03-11T14:26:25+01:00
 Modified: 2024-03-11T14:26:25+01:00
 Type: page
@@ -10,4 +10,4 @@ Lang: sv
 Translation: false
 ---
 
-Svenska Projekt
+Sunet utvecklar en rad projekt för forsknings-IT och utbildning.
