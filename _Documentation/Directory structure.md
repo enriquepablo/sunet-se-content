@@ -36,7 +36,7 @@ Here we keep content items that are not dated (they have a creation and modifica
 Apart from generic pages, there are 3 further types of content in this directory:
 
 - The entry pages for the blog, the news and the events. These are located in `pages/om-sunet/aktuellt`, and just include the metadata and the headings for those pages. The events, news items and blog posts that are accessible from those pages are pulled from the **articles** directory mentioned above.
-- The service and projekt pages. These are kept at `pages/tjanster/<service category/` and `pages/projekt/<projekt category/`, where `<service category>` and `<projekt category` are replaced by the service or projekt category `Slug`s (see the metadata section for an explanation of the `Slug`).
+- The service and projekt pages. These are kept at `pages/services/<service category>/` and `pages/projekt/<projekt category>/`, where `<service category>` and `<projekt category` are replaced by the service or projekt category `Slug`s in the navigation metadata (see the metadata section for an explanation of the `Slug`).
 
 It is important that no `pages/arenden` directory is ever created. This directory is used to place the tickets pulled from JIRA during the build process (the process by which these markdown pages are transformed into HTML ready for the web). So any content placed in such directory will be wiped out during the build process.
 

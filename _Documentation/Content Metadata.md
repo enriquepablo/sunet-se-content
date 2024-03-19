@@ -21,7 +21,7 @@ For all types of content.
 - **Date**: Creation timestamp. Should be set when applying a template.
 - **Modified**: Modification timestamp. It should not need to be edited by hand, there is a tool in the toolbar to insert timestamps.
 - **Type**: The type of the content item. Can be one of page, person, news, blog, event, project, or service. This should not need to be edited by hand.
-- **Slug**: This is the path under which the content will be shown in the site, without the leading slash. So for example if we want to publish a page at `https://sunet.se/om-sunet/some-page`, the Slug should be `om-sunet/some-page`. Slugs can only be composed of lower case letters, numbers, dashes and slashes.
+- **Slug**: This is the path under which the content will be shown in the site, without the leading slash. So for example if we want to publish a page at `https://sunet.se/om-sunet/some-page`, the Slug should be `om-sunet/some-page`. Slugs can only be composed of lower case letters, numbers, dashes and slashes. Some of the templates provide a part of the Slug, for example the template for events adds a Slug like `om-sunet/aktuellt/evenemang/`, to which it is necessary to add the fragment corresponding to the actual event.
 - **Status**: One of `draft`, `published`, or `hidden`.
 - **Authors**: the authors of the page. Not much used at the moment (the authors in the wordpress content did not exist in the people feed).
 - **Lang**: The language of the page.
@@ -43,7 +43,7 @@ Metadata for pages.
 
 - **TabTitle**: If you need the title in the web page and the title for the tabs and browser to be dfferent, set here the title to appear on the tabs and the browser. Optional.
 
-## service and project metadata
+## Service and project metadata
 
 - **Subtitle**: Short text that will appear in the cards in the listings of services and projects.
 - **Category**: The Title of the corresponding project or service category, as set in `navigation/projekt-categories` and `navigation/service-categories`.

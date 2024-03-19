@@ -2,6 +2,7 @@
 Title: {{title}}
 Date: {{date}}
 Modified: {{date}}
+Type: evenemang
 DisplayDate: 
 StartDate: 
 EndDate: 

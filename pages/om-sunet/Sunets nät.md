@@ -16,7 +16,7 @@ Sunets nät erbjuder vanlig routad nätaccess. Det går också att få en dedike
 
 Ett grundläggande krav för att få ta del av Sunets nät är att verksamheten är relaterad till forskning eller högre utbildning. Sveriges universitet och högskolor är anslutna till nätet genom vårt regleringsbrev. Övriga lärosäten och andra offentliga organisationer med koppling till forskning eller högre utbildning kan teckna avtal med Sunet för att ansluta sig.
 
-[Läs mer om hur Sunets nät fungerar](/tjanster/nat/sunets-nat).
+[Läs mer om hur Sunets nät fungerar](/services/nat/sunets-nat).
 
 ![](/wp-content/uploads/2020/10/SunetCmap_2020_small.png)
 
