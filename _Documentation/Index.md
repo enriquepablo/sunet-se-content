@@ -12,7 +12,7 @@ Translation: false
 
 Documentation for the editors of the sunet.se site.
 
-- [Directory structure](documentation/directory-structure). Here we give an overview of the data in the different directories in the obsidian vault (from which the site is built).
+- [Directory structure](documentation/Directory%20Structure.md) Here we give an overview of the data in the different directories in the obsidian vault (from which the site is built).
 - [Navigation Metadata](_Documentation/Navigation%20Metadata.md): How the metadata that drives the construction of the navigational elements of the site is structured.
 - [Content Metadata](_Documentation/Content%20Metadata.md): How to characterize the different types of content items through their metadata.
 - [Editing content](_Documentation/Editing%20content.md): An introduction to the UI to edit the markdown content that will compose the site.
